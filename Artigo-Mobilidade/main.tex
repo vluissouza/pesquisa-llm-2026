@@ -1,3 +1,4 @@
+% !TeX root = main.tex
 \documentclass[12pt]{article}
 
 \usepackage[utf8]{inputenc}
@@ -6,6 +7,7 @@
 \usepackage{amsmath}
 \usepackage{geometry}
 \usepackage{setspace}
+\usepackage{lmodern}
 
 \geometry{a4paper, margin=2.5cm}
 
@@ -13,6 +15,8 @@
 \author{Valdir Luis de Souza}
 \date{\today}
 \usepackage{enumitem}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
 \begin{document}
 
 \maketitle
@@ -87,6 +91,48 @@ Para fabricantes e integradores, os resultados orientam decisões sobre portfól
 Para o setor público, a padronização favorece políticas industriais, regulação técnica, interoperabilidade nacional e melhor direcionamento de incentivos fiscais e financiamento. 
 
 A principal implicação é que a padronização não constitui apenas uma decisão técnica, mas um determinante da eficiência econômica e da competitividade industrial.
+
+\begin{equation}
+R^2 = 0.497
+\end{equation}
+
+\begin{equation}
+F = 241.8, \quad p < 0.001
+\end{equation}
+
+\begin{equation}
+H_0: \mu_{CCS2} = \mu_{Type2} = \mu_{CHAdeMO}
+\end{equation}
+
+\begin{table}[h]
+\centering
+\caption{OLS Regression Results}
+\begin{tabular}{lccc}
+\hline
+Variable & Coefficient & Std. Error & p-value \\
+\hline
+Intercept & 93.15 & 3.25 & <0.001 \\
+CHAdeMO & -91.27 & 6.39 & <0.001 \\
+Type 2 & -104.60 & 3.84 & <0.001 \\
+France & 68.91 & 4.39 & <0.001 \\
+Germany & 74.34 & 6.03 & <0.001 \\
+Spain & 31.70 & 5.37 & <0.001 \\
+\hline
+\end{tabular}
+\end{table}
+
+\section{Resultados da análise de variância (ANOVA) e teste de Tukey}
+
+Os resultados da estrutura ANOVA indicam diferenças através do tipos de conector.
+
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\linewidth]{figures/avg_power_country.png}
+\caption{Média de potência de carregamento por país}
+\label{fig:avg_power_country}
+\end{figure}
+
 
 \section{Conclusão}
 A infraestrutura de recarga de veículos elétricos deve ser analisada como sistema estratégico de integração tecnológica, industrial e regulatória. Os resultados demonstram que a escolha do padrão de conectores afeta diretamente a potência instalada, a eficiência do investimento e a capacidade de expansão da mobilidade elétrica. 

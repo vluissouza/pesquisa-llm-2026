@@ -1,0 +1,1430 @@
+﻿country,station_id,city,state,power_kw,connection_type_id,connector_name
+Brazil,486411,Goiânia,,23.0,25,Type 2
+Brazil,486406,Maresias São Sebastião,,7.0,25,Type 2
+Brazil,486340,Vicente Pires,,30.0,33,CCS2
+Brazil,485972,Pinheiros,,60.0,33,CCS2
+Brazil,485972,Pinheiros,,60.0,33,CCS2
+Brazil,485827,Marzagão,Goiás,40.0,33,CCS2
+Brazil,485827,Marzagão,Goiás,40.0,33,CCS2
+Brazil,485760,Montes Claros,,60.0,33,CCS2
+Brazil,485760,Montes Claros,,60.0,33,CCS2
+Brazil,485759,Rio Casca,,240.0,33,CCS2
+Brazil,485759,Rio Casca,,240.0,33,CCS2
+Brazil,485759,Rio Casca,,240.0,33,CCS2
+Brazil,485714,"Asa Norte, Brasília",,60.0,33,CCS2
+Brazil,485714,"Asa Norte, Brasília",,60.0,33,CCS2
+Brazil,485713,"Sudoeste, Brasília",,60.0,33,CCS2
+Brazil,485713,"Sudoeste, Brasília",,60.0,33,CCS2
+Brazil,485656,Vicente Pires,,21.0,25,Type 2
+Brazil,485656,Vicente Pires,,21.0,25,Type 2
+Brazil,485167,,São Paulo,30.0,33,CCS2
+Brazil,485166,,São Paulo,100.0,33,CCS2
+Brazil,485166,,São Paulo,100.0,33,CCS2
+Brazil,484758,Cavalcante,,7.0,25,Type 2
+Brazil,484757,Alto Paraíso de Goiás,,7.0,25,Type 2
+Brazil,484756,Aruanã,,7.0,25,Type 2
+Brazil,484755,Brasília,,23.0,25,Type 2
+Brazil,484755,Brasília,,23.0,25,Type 2
+Brazil,484754,Brasília,,30.0,33,CCS2
+Brazil,484754,Brasília,,30.0,33,CCS2
+Brazil,484753,Brasília,,22.0,25,Type 2
+Brazil,484752,Brasília,,22.0,25,Type 2
+Brazil,484751,"Asa Norte,",,60.0,33,CCS2
+Brazil,484751,"Asa Norte,",,60.0,33,CCS2
+Brazil,484750,Brasília,,23.0,25,Type 2
+Brazil,484749,Brasília,,60.0,33,CCS2
+Brazil,484749,Brasília,,60.0,33,CCS2
+Brazil,484749,Brasília,,60.0,33,CCS2
+Brazil,484748,Brasília,,22.0,25,Type 2
+Brazil,484747,Brasília,,60.0,33,CCS2
+Brazil,484747,Brasília,,60.0,33,CCS2
+Brazil,484746,Brasília,,30.0,33,CCS2
+Brazil,484746,Brasília,,30.0,33,CCS2
+Brazil,484745,Brasília,,23.0,25,Type 2
+Brazil,484744,Brasília,,23.0,25,Type 2
+Brazil,484744,Brasília,,23.0,25,Type 2
+Brazil,484743,Brasília,,22.0,25,Type 2
+Brazil,484742,Brasília,,23.0,25,Type 2
+Brazil,484741,Brasília,,23.0,25,Type 2
+Brazil,484740,Brasília,,23.0,25,Type 2
+Brazil,484739,Brasília,,80.0,33,CCS2
+Brazil,484739,Brasília,,60.0,33,CCS2
+Brazil,484739,Brasília,,23.0,1036,Tesla
+Brazil,484739,Brasília,,60.0,33,CCS2
+Brazil,484738,Brasília,,23.0,25,Type 2
+Brazil,484737,Brasília - DF,,60.0,33,CCS2
+Brazil,484737,Brasília - DF,,60.0,33,CCS2
+Brazil,484736,Brasília,,60.0,33,CCS2
+Brazil,484736,Brasília,,60.0,33,CCS2
+Brazil,484735,Brasília,,40.0,33,CCS2
+Brazil,484735,Brasília,,40.0,33,CCS2
+Brazil,484734,Asa Sul,,23.0,25,Type 2
+Brazil,484734,Asa Sul,,23.0,25,Type 2
+Brazil,484733,Brasília,,40.0,33,CCS2
+Brazil,484733,Brasília,,40.0,33,CCS2
+Brazil,484732,Brasília,,22.0,25,Type 2
+Brazil,484731,Brasília,,22.0,25,Type 2
+Brazil,484730,Brasília,,23.0,25,Type 2
+Brazil,484730,Brasília,,23.0,25,Type 2
+Brazil,484729,Brasília,,22.0,25,Type 2
+Brazil,484728,Brasília,,22.0,25,Type 2
+Brazil,484728,Brasília,,22.0,25,Type 2
+Brazil,484727,Brasília,,40.0,33,CCS2
+Brazil,484727,Brasília,,40.0,33,CCS2
+Brazil,484726,Águas Claras,,60.0,33,CCS2
+Brazil,484726,Águas Claras,,60.0,33,CCS2
+Brazil,484725,Brasília,,22.0,25,Type 2
+Brazil,484724,Brasília,,30.0,33,CCS2
+Brazil,484724,Brasília,,30.0,33,CCS2
+Brazil,484723,Brasília,,23.0,25,Type 2
+Brazil,484722,Brasília,,60.0,33,CCS2
+Brazil,484722,Brasília,,60.0,33,CCS2
+Brazil,484721,Gama,,23.0,25,Type 2
+Brazil,484720,Cáceres,,7.0,25,Type 2
+Brazil,484719,Valparaíso de Goiás,,30.0,33,CCS2
+Brazil,484718,Valparaíso de Goiás,,7.0,25,Type 2
+Brazil,484717,Alexânia,,23.0,25,Type 2
+Brazil,484716,Alexânia,,23.0,25,Type 2
+Brazil,484715,Goiânia,,23.0,25,Type 2
+Brazil,484714,Goiânia,,60.0,33,CCS2
+Brazil,484714,Goiânia,,60.0,33,CCS2
+Brazil,484713,Trindade,,23.0,1036,Tesla
+Brazil,484712,Goiânia,,23.0,25,Type 2
+Brazil,484712,Goiânia,,23.0,25,Type 2
+Brazil,484711,Goiânia,,40.0,33,CCS2
+Brazil,484711,Goiânia,,40.0,33,CCS2
+Brazil,484710,Goiânia,,23.0,25,Type 2
+Brazil,484710,Goiânia,,23.0,25,Type 2
+Brazil,484709,Goiânia,,7.0,25,Type 2
+Brazil,484708,Goiânia,,23.0,25,Type 2
+Brazil,484708,Goiânia,,23.0,25,Type 2
+Brazil,484708,Goiânia,,23.0,25,Type 2
+Brazil,484708,Goiânia,,23.0,25,Type 2
+Brazil,484708,Goiânia,,23.0,25,Type 2
+Brazil,484708,Goiânia,,23.0,25,Type 2
+Brazil,484707,Goiânia,,23.0,25,Type 2
+Brazil,484706,Goiânia,,23.0,25,Type 2
+Brazil,484706,Goiânia,,23.0,25,Type 2
+Brazil,484705,Goiânia,,22.0,25,Type 2
+Brazil,484704,Goiania,,22.0,25,Type 2
+Brazil,484703,Goiânia,,22.0,25,Type 2
+Brazil,484702,Goiânia,,7.0,25,Type 2
+Brazil,484701,Goiânia,,7.0,25,Type 2
+Brazil,484700,Goiania,,30.0,33,CCS2
+Brazil,484699,Goiânia,,7.0,25,Type 2
+Brazil,484698,Goiânia,,23.0,25,Type 2
+Brazil,484698,Goiânia,,23.0,25,Type 2
+Brazil,484697,Goiânia,,23.0,25,Type 2
+Brazil,484696,Goiânia,,7.0,25,Type 2
+Brazil,484695,Goiânia,,22.0,25,Type 2
+Brazil,484694,Goiânia,,22.0,25,Type 2
+Brazil,484693,Goiânia,,22.0,25,Type 2
+Brazil,484693,Goiânia,,22.0,25,Type 2
+Brazil,484692,Goiania,,60.0,2,CHAdeMO
+Brazil,484692,Goiania,,60.0,33,CCS2
+Brazil,484692,Goiania,,60.0,33,CCS2
+Brazil,484691,Goiânia,,22.0,25,Type 2
+Brazil,484690,Goiânia,,22.0,25,Type 2
+Brazil,484689,Goiânia,,23.0,25,Type 2
+Brazil,484688,Goiânia,,23.0,25,Type 2
+Brazil,484688,Goiânia,,23.0,25,Type 2
+Brazil,484687,Goiânia,,22.0,25,Type 2
+Brazil,484686,Goiânia,,22.0,25,Type 2
+Brazil,484685,Goiania,,7.0,25,Type 2
+Brazil,484684,Goiânia,,60.0,33,CCS2
+Brazil,484684,Goiânia,,60.0,33,CCS2
+Brazil,484683,Goiânia,,23.0,25,Type 2
+Brazil,484682,Goiânia,,7.0,25,Type 2
+Brazil,484682,Goiânia,,7.0,25,Type 2
+Brazil,484681,Goiânia,,7.0,25,Type 2
+Brazil,484681,Goiânia,,7.0,25,Type 2
+Brazil,484680,Goiânia,,60.0,33,CCS2
+Brazil,484680,Goiânia,,7.0,25,Type 2
+Brazil,484680,Goiânia,,60.0,33,CCS2
+Brazil,484680,Goiânia,,60.0,33,CCS2
+Brazil,484679,Goiânia,,60.0,33,CCS2
+Brazil,484679,Goiânia,,60.0,33,CCS2
+Brazil,484678,Goiânia,,7.0,25,Type 2
+Brazil,484677,Goiânia,,23.0,25,Type 2
+Brazil,484676,Goiania,,60.0,33,CCS2
+Brazil,484676,Goiania,,0.0,33,CCS2
+Brazil,484675,Goiânia,,23.0,25,Type 2
+Brazil,484674,Aparecida de Goiânia,,7.0,25,Type 2
+Brazil,484673,Aparecida de Goiânia,,40.0,33,CCS2
+Brazil,484673,Aparecida de Goiânia,,40.0,33,CCS2
+Brazil,484672,Aparecida de Goiânia,,23.0,25,Type 2
+Brazil,484671,Aparecida de Goiânia,,7.0,25,Type 2
+Brazil,484670,Aparecida de Goiânia,,7.0,25,Type 2
+Brazil,484669,Alto Garças,,23.0,25,Type 2
+Brazil,484668,Hidrolândia,,7.0,25,Type 2
+Brazil,484667,Mineiros,,7.0,25,Type 2
+Brazil,484666,Goiatuba,,30.0,33,CCS2
+Brazil,484665,Minas Gerais,,40.0,33,CCS2
+Brazil,484665,Minas Gerais,,40.0,33,CCS2
+Brazil,484664,Campos dos Goytacazes,,23.0,25,Type 2
+Brazil,484664,Campos dos Goytacazes,,30.0,33,CCS2
+Brazil,484664,Campos dos Goytacazes,,23.0,25,Type 2
+Brazil,484664,Campos dos Goytacazes,,23.0,25,Type 2
+Brazil,484663,Rio de Janeiro,,23.0,25,Type 2
+Brazil,484663,Rio de Janeiro,,23.0,25,Type 2
+Brazil,484662,Campos dos Goytacazes,,23.0,25,Type 2
+Brazil,484661,Carapebus,,23.0,25,Type 2
+Brazil,484661,Carapebus,,23.0,25,Type 2
+Brazil,484660,Rio de Janeiro,,60.0,33,CCS2
+Brazil,484660,Rio de Janeiro,,60.0,33,CCS2
+Brazil,484659,São Paulo,,7.0,25,Type 2
+Brazil,484659,São Paulo,,7.0,25,Type 2
+Brazil,484658,São Paulo,,7.0,25,Type 2
+Brazil,484658,São Paulo,,7.0,25,Type 2
+Brazil,484657,São Paulo,,7.0,25,Type 2
+Brazil,484656,São Paulo,,23.0,25,Type 2
+Brazil,481354,Rorainópolis,,22.0,25,Type 2
+Brazil,481354,Rorainópolis,,60.0,33,CCS2
+Brazil,481354,Rorainópolis,,22.0,25,Type 2
+Brazil,481353,São Luis,,7.0,25,Type 2
+Brazil,481352,Manaus,,7.0,25,Type 2
+Brazil,481351,Fortaleza,,7.0,25,Type 2
+Brazil,481351,Fortaleza,,7.0,25,Type 2
+Brazil,481350,Sobral,,22.0,25,Type 2
+Brazil,481350,Sobral,,60.0,33,CCS2
+Brazil,481350,Sobral,,22.0,25,Type 2
+Brazil,481349,Fortaleza,,7.0,25,Type 2
+Brazil,481348,Maracanaú,,7.0,25,Type 2
+Brazil,481348,Maracanaú,,7.0,25,Type 2
+Brazil,481347,Teresina,,7.0,25,Type 2
+Brazil,481346,Açu,,60.0,33,CCS2
+Brazil,481346,Açu,,30.0,33,CCS2
+Brazil,481346,Açu,,60.0,33,CCS2
+Brazil,481345,Solonopole,,22.0,25,Type 2
+Brazil,481345,Solonopole,,30.0,33,CCS2
+Brazil,481345,Solonopole,,22.0,25,Type 2
+Brazil,481344,Natal,,7.0,25,Type 2
+Brazil,481343,Tibau do Sul ,,11.0,25,Type 2
+Brazil,481343,Tibau do Sul ,,11.0,25,Type 2
+Brazil,481342,João Pessoa,,150.0,33,CCS2
+Brazil,481342,João Pessoa,,150.0,33,CCS2
+Brazil,481341,João Pessoa,,7.0,25,Type 2
+Brazil,481340,Salgueiro,,7.0,25,Type 2
+Brazil,481340,Salgueiro,,7.0,25,Type 2
+Brazil,481339,Recife,,7.0,25,Type 2
+Brazil,481338,Delmiro Gouveia,,7.0,25,Type 2
+Brazil,481337,Canudos,,22.0,25,Type 2
+Brazil,481337,Canudos,,30.0,33,CCS2
+Brazil,481337,Canudos,,22.0,25,Type 2
+Brazil,481336,Aracaju,,7.0,25,Type 2
+Brazil,481335,Sinop,,30.0,33,CCS2
+Brazil,481335,Sinop,,22.0,25,Type 2
+Brazil,481335,Sinop,,30.0,33,CCS2
+Brazil,481334,Luís Eduardo Magalhães,,22.0,25,Type 2
+Brazil,481334,Luís Eduardo Magalhães,,60.0,33,CCS2
+Brazil,481334,Luís Eduardo Magalhães,,22.0,25,Type 2
+Brazil,481333,Feira de Santana,,23.0,25,Type 2
+Brazil,481333,Feira de Santana,,30.0,33,CCS2
+Brazil,481333,Feira de Santana,,23.0,25,Type 2
+Brazil,481332,Seabra,,22.0,25,Type 2
+Brazil,481332,Seabra,,60.0,33,CCS2
+Brazil,481332,Seabra,,22.0,25,Type 2
+Brazil,481331,,,7.0,25,Type 2
+Brazil,481330,Salvador,,7.0,25,Type 2
+Brazil,481329,Salvador,,22.0,25,Type 2
+Brazil,481328,Valença,,11.0,25,Type 2
+Brazil,481328,Valença,,11.0,25,Type 2
+Brazil,481327,Nova Mutum ,,22.0,25,Type 2
+Brazil,481327,Nova Mutum ,,30.0,33,CCS2
+Brazil,481327,Nova Mutum ,,22.0,25,Type 2
+Brazil,481326,,,7.0,25,Type 2
+Brazil,481325,Alto Paraiso de Goias - GO,,11.0,25,Type 2
+Brazil,481325,Alto Paraiso de Goias - GO,,11.0,25,Type 2
+Brazil,481324,Primavera do Leste,,7.0,25,Type 2
+Brazil,481324,Primavera do Leste,,30.0,33,CCS2
+Brazil,481324,Primavera do Leste,,7.0,25,Type 2
+Brazil,481323,Cuiabá,,7.0,25,Type 2
+Brazil,481322,,,7.0,25,Type 2
+Brazil,481321,Brasília,,7.0,25,Type 2
+Brazil,481320,Brasília,,7.0,25,Type 2
+Brazil,481319,Brasília,,7.0,25,Type 2
+Brazil,481319,Brasília,,7.0,25,Type 2
+Brazil,481319,Brasília,,7.0,25,Type 2
+Brazil,481318,Brasília,,7.0,25,Type 2
+Brazil,481317,Rondonópolis,,60.0,33,CCS2
+Brazil,481317,Rondonópolis,,30.0,33,CCS2
+Brazil,481317,Rondonópolis,,60.0,33,CCS2
+Brazil,481316,Goiânia,,7.0,25,Type 2
+Brazil,481315,Paracatu,,22.0,25,Type 2
+Brazil,481315,Paracatu,,60.0,33,CCS2
+Brazil,481315,Paracatu,,22.0,25,Type 2
+Brazil,481314,,,7.0,25,Type 2
+Brazil,481313,Buenópolis,,7.0,25,Type 2
+Brazil,481312,Catalão,,120.0,33,CCS2
+Brazil,481312,Catalão,,60.0,33,CCS2
+Brazil,481312,Catalão,,120.0,33,CCS2
+Brazil,481311,Três Marias,,22.0,25,Type 2
+Brazil,481311,Três Marias,,30.0,33,CCS2
+Brazil,481311,Três Marias,,22.0,25,Type 2
+Brazil,481310,Itumbiara,,22.0,25,Type 2
+Brazil,481310,Itumbiara,,60.0,33,CCS2
+Brazil,481310,Itumbiara,,22.0,25,Type 2
+Brazil,481309,,,7.0,25,Type 2
+Brazil,481308,São Mathes,,22.0,25,Type 2
+Brazil,481308,São Mathes,,22.0,25,Type 2
+Brazil,481307,,,7.0,25,Type 2
+Brazil,481306,Uberlândia,,7.0,25,Type 2
+Brazil,481305,,,7.0,25,Type 2
+Brazil,481304,Uberlândia,,7.0,25,Type 2
+Brazil,481303,Campos Altos,,22.0,25,Type 2
+Brazil,481303,Campos Altos,,22.0,25,Type 2
+Brazil,481302,Ibiraçu,,7.0,25,Type 2
+Brazil,481301,Belo Horizonte,,7.0,25,Type 2
+Brazil,481300,Vitória,,7.0,25,Type 2
+Brazil,481299,Campo Grande,,7.0,25,Type 2
+Brazil,481298,Capitólio,,30.0,33,CCS2
+Brazil,481298,Capitólio,,30.0,33,CCS2
+Brazil,481297,Três Lagoas,,7.0,25,Type 2
+Brazil,481297,Três Lagoas,,7.0,25,Type 2
+Brazil,481296,São José do Rio Preto,,22.0,25,Type 2
+Brazil,481296,São José do Rio Preto,,60.0,33,CCS2
+Brazil,481296,São José do Rio Preto,,22.0,25,Type 2
+Brazil,481295,São José do Rio Preto,,7.0,25,Type 2
+Brazil,481294,,,7.0,25,Type 2
+Brazil,481293,Andradina,,22.0,25,Type 2
+Brazil,481293,Andradina,,30.0,33,CCS2
+Brazil,481293,Andradina,,22.0,25,Type 2
+Brazil,481292,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481292,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481291,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481291,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481290,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481290,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481290,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481290,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481290,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481290,Ribeirão Preto,,30.0,33,CCS2
+Brazil,481290,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481290,Ribeirão Preto,,7.0,25,Type 2
+Brazil,481289,Penápolis,,11.0,25,Type 2
+Brazil,481289,Penápolis,,30.0,33,CCS2
+Brazil,481289,Penápolis,,11.0,25,Type 2
+Brazil,481288,Presidente Prudente,,11.0,25,Type 2
+Brazil,481288,Presidente Prudente,,60.0,33,CCS2
+Brazil,481288,Presidente Prudente,,11.0,25,Type 2
+Brazil,481287,Bauru,,30.0,33,CCS2
+Brazil,481286,Rio das Ostras,,7.0,25,Type 2
+Brazil,481285,Rio de Janeiro,,11.0,25,Type 2
+Brazil,481285,Rio de Janeiro,,60.0,33,CCS2
+Brazil,481285,Rio de Janeiro,,11.0,25,Type 2
+Brazil,481284,Limeira,,60.0,33,CCS2
+Brazil,481284,Limeira,,60.0,33,CCS2
+Brazil,481284,Limeira,,60.0,33,CCS2
+Brazil,481283,Campos do Jordão,,7.0,25,Type 2
+Brazil,481283,Campos do Jordão,,7.0,25,Type 2
+Brazil,481282,Campos do Jordão,,7.0,25,Type 2
+Brazil,481282,Campos do Jordão,,7.0,25,Type 2
+Brazil,481281,São Pedro da Aldeia,,23.0,25,Type 2
+Brazil,481281,São Pedro da Aldeia,,60.0,33,CCS2
+Brazil,481281,São Pedro da Aldeia,,23.0,25,Type 2
+Brazil,481280,Campinas,,7.0,25,Type 2
+Brazil,481279,Campinas,,22.0,25,Type 2
+Brazil,481278,Campinas,,3.0,25,Type 2
+Brazil,481277,Campinas,,22.0,25,Type 2
+Brazil,481276,Campinas,,7.0,25,Type 2
+Brazil,481275,Rio de Janeiro,,3.0,25,Type 2
+Brazil,481274,Pindamonhangaba,,7.0,25,Type 2
+Brazil,481273,Rio de Janeiro,,7.0,25,Type 2
+Brazil,481272,Rio de Janeiro,,120.0,33,CCS2
+Brazil,481272,Rio de Janeiro,,120.0,33,CCS2
+Brazil,481271,Avaré,,7.0,25,Type 2
+Brazil,481271,Avaré,,50.0,33,CCS2
+Brazil,481271,Avaré,,7.0,25,Type 2
+Brazil,481270,Angra dos Reis,,22.0,25,Type 2
+Brazil,481270,Angra dos Reis,,30.0,33,CCS2
+Brazil,481270,Angra dos Reis,,22.0,25,Type 2
+Germany,486139,Gerstungen,,11.0,1036,Tesla
+Germany,485833,Berlin,,11.0,25,Type 2
+Germany,485832,Berlin,,22.0,25,Type 2
+Germany,485324,Wangerland,,22.0,25,Type 2
+Germany,480906,,Baden-Württemberg,200.0,33,CCS2
+Germany,480839,Wörth am Rhein,Rheinland-Pfalz,150.0,33,CCS2
+Germany,480839,Wörth am Rhein,Rheinland-Pfalz,150.0,33,CCS2
+Germany,480839,Wörth am Rhein,Rheinland-Pfalz,150.0,33,CCS2
+Germany,480839,Wörth am Rhein,Rheinland-Pfalz,300.0,33,CCS2
+Germany,480827,Mühlhausen im Täle,Baden-Württemberg,400.0,33,CCS2
+Germany,480827,Mühlhausen im Täle,Baden-Württemberg,200.0,33,CCS2
+Germany,480813,Schweinfurt,Bayern,250.0,33,CCS2
+Germany,480504,Merzhausen,Baden-Württemberg,11.0,25,Type 2
+Germany,480134,Greimerath ,Rheinland-Pfalz,11.0,25,Type 2
+Germany,479861,Dossenheim,,22.0,25,Type 2
+Germany,479861,Dossenheim,,60.0,33,CCS2
+Germany,479656,Landkreis Böblingen,Landkreis Böblingen,150.0,33,CCS2
+Germany,479655,Landkreis Böblingen,Landkreis Böblingen,22.0,25,Type 2
+Germany,478921,Villingen-Schwenningen,Baden-Württemberg,300.0,33,CCS2
+Germany,478921,Villingen-Schwenningen,Baden-Württemberg,100.0,2,CHAdeMO
+Germany,478803,Kappelrodeck,,50.0,33,CCS2
+Germany,478803,Kappelrodeck,,11.0,25,Type 2
+Germany,478763,Weyhe,,50.0,33,CCS2
+Germany,478763,Weyhe,,44.0,1036,Tesla
+Germany,478763,Weyhe,,50.0,2,CHAdeMO
+Germany,478763,Weyhe,,22.0,1036,Tesla
+Germany,478376,Rotenburg an der Fulda,Hessen,150.0,33,CCS2
+Germany,478193,Wasserburg am Inn,Bayern,22.0,25,Type 2
+Germany,477295,Regensburg,Bayern,150.0,33,CCS2
+Germany,475599,Scheidegg,Bayern,22.0,25,Type 2
+Germany,475326,Schierling,,300.0,33,CCS2
+Germany,475326,Schierling,,100.0,2,CHAdeMO
+Germany,475137,Karlsruhe,Baden-Württemberg,22.0,33,CCS2
+Germany,475136,Karlsruhe,Baden-Württenberg,22.0,33,CCS2
+Germany,474885,Leiwen,,22.0,25,Type 2
+Germany,474830,Wald-Michelbach,Hessen,11.0,25,Type 2
+Germany,474829,Wielenbach,Bayern,11.0,25,Type 2
+Germany,474828,Penzberg,Bayern,11.0,25,Type 2
+Germany,474827,Neuenbürg,Baden-Württemberg,11.0,1036,Tesla
+Germany,474826,Neubrandenburg,Mecklenburg-Vorpommern,11.0,1036,Tesla
+Germany,474825,Mammendorf,Bayern,11.0,1036,Tesla
+Germany,474822,Gießen,Hessen,11.0,1036,Tesla
+Germany,474821,Fürth,Bayern,200.0,33,CCS2
+Germany,474820,Harreshausen,Hessen,22.0,25,Type 2
+Germany,474818,Harreshausen,Hessen,22.0,25,Type 2
+Germany,474817,Harreshausen,Hessen,22.0,25,Type 2
+Germany,474816,Harreshausen,Hessen,22.0,25,Type 2
+Germany,474815,Harreshausen,Hessen,22.0,25,Type 2
+Germany,474814,Harreshausen,Hessen,22.0,25,Type 2
+Germany,474454,Geiselwind,Bayern,175.0,33,CCS2
+Germany,474454,Geiselwind,Bayern,100.0,2,CHAdeMO
+Germany,474443,Esslingen am Neckar,Baden-Württemberg,22.0,1036,Tesla
+Germany,474443,Esslingen am Neckar,Baden-Württemberg,22.0,1036,Tesla
+Germany,474442,Eppstein,Hessen,11.0,1036,Tesla
+Germany,474442,Eppstein,Hessen,11.0,1036,Tesla
+Germany,474441,Schönsee,Bayern,11.0,25,Type 2
+Germany,474441,Schönsee,Bayern,11.0,25,Type 2
+Germany,474440,Harreshausen,Hessen,22.0,25,Type 2
+Germany,474434,Harreshausen,Hessen,22.0,25,Type 2
+Germany,472990,Laichingen,Baden-Württemberg,300.0,33,CCS2
+Germany,472990,Laichingen,Baden-Württemberg,22.0,1036,Tesla
+Germany,472669,Bochum,Nordrhein-Westfalen,22.0,33,CCS2
+Germany,472499,Friedberg,Bayern,22.0,25,Type 2
+Germany,472477,Gröbern,Sachsen-Anhalt,7.2,25,Type 2
+Germany,472447,Hameln,Niedersachsen,11.07,25,Type 2
+Germany,472147,Viernheim,Hessen,22.0,25,Type 2
+Germany,472123,Ratingen,NRW,22.0,25,Type 2
+Germany,471743,Borken,Nordrhein-Westfalen,400.0,33,CCS2
+Germany,470965,Lemgo,Nordrhein-Westfalen,22.0,1036,Tesla
+Germany,470965,Lemgo,Nordrhein-Westfalen,50.0,33,CCS2
+Germany,470841,Passau,Bavaria,22.0,25,Type 2
+Germany,470739,Troisdorf,Nordrhein-Westfalen,22.0,25,Type 2
+Germany,470738,Köln,Nordrhein-Westfalen,22.0,25,Type 2
+Germany,470738,Köln,Nordrhein-Westfalen,125.0,33,CCS2
+Germany,470413,Leutkirch,Baden-Württemberg,11.0,33,CCS2
+Germany,470410,Leutkirch,Baden-Württemberg,300.0,33,CCS2
+Germany,470410,Leutkirch,Baden-Württemberg,150.0,33,CCS2
+Germany,470319,Nersingen,,300.0,33,CCS2
+Germany,470240,Nonnenhorn,,22.0,25,Type 2
+Germany,469464, Bremen ,,50.0,33,CCS2
+Germany,469463, Bremen ,,50.0,33,CCS2
+Germany,469462, Bremen ,,50.0,33,CCS2
+Germany,469461, Bremen ,,50.0,33,CCS2
+Germany,469460, Bremen ,,50.0,33,CCS2
+Germany,464074,Blankenheim,,12.7,1036,Tesla
+Germany,464074,Blankenheim,,12.7,1036,Tesla
+Germany,463347,Rethmar,Region Hannover,22.0,1036,Tesla
+Germany,463347,Rethmar,Region Hannover,22.0,1036,Tesla
+Germany,463347,Rethmar,Region Hannover,22.0,1036,Tesla
+Germany,463347,Rethmar,Region Hannover,22.0,1036,Tesla
+Germany,462365,Reichertshofen,Bayern,300.0,33,CCS2
+Germany,462348,Lindau,,150.0,33,CCS2
+Germany,462348,Lindau,,22.0,1036,Tesla
+Germany,462133,München,Bavaria,150.0,33,CCS2
+Germany,462133,München,Bavaria,150.0,33,CCS2
+Germany,462133,München,Bavaria,22.0,25,Type 2
+Germany,462105,Eschweiler ,,200.0,33,CCS2
+Germany,462105,Eschweiler ,,100.0,33,CCS2
+Germany,461947,Fleringen,,11.0,1036,Tesla
+Germany,461189,Friedrichshafen,,300.0,33,CCS2
+Germany,461065,Bergkirchen,,300.0,33,CCS2
+Germany,461064,Bergkirchen,,300.0,33,CCS2
+Germany,461061,Eching,,300.0,33,CCS2
+Germany,460316,Mering,,150.0,33,CCS2
+Germany,460315,Dingolfing,,150.0,33,CCS2
+Germany,460314,Landshut,,150.0,33,CCS2
+Germany,460313,Eching,,300.0,33,CCS2
+Germany,460312,Freising,,150.0,33,CCS2
+Germany,460311,Unterschleißheim,,150.0,33,CCS2
+Germany,460310,Germering,,300.0,33,CCS2
+Germany,460309,Unterhaching,,150.0,33,CCS2
+Germany,460308,Kirchseeon,,150.0,33,CCS2
+Germany,460307,Wasserburg am Inn,,150.0,33,CCS2
+Germany,460306,Kiefersfelden,,150.0,33,CCS2
+Germany,460305,Rosenheim,,150.0,33,CCS2
+Germany,460304,Kreuth,,150.0,33,CCS2
+Germany,460303,Bad Tölz,,150.0,33,CCS2
+Germany,460302,Garmisch-Partenkirchen,,150.0,33,CCS2
+Germany,460301,Murnau am Staffelsee,,300.0,33,CCS2
+Germany,460300,Penzberg,,150.0,33,CCS2
+Germany,460299,Wolfratshausen,,150.0,33,CCS2
+Germany,460298,Marktoberdorf,,150.0,33,CCS2
+Germany,460297,Bad Grönenbach,,300.0,33,CCS2
+Germany,460296,Aichstetten,,150.0,33,CCS2
+Germany,460295,Memmingen,,300.0,33,CCS2
+Germany,460294,Ungerhausen,,400.0,33,CCS2
+Germany,460293,Türkheim,,300.0,33,CCS2
+Germany,460292,Olching,,150.0,33,CCS2
+Germany,460291,Pforzheim,,300.0,33,CCS2
+Germany,460290,Heimsheim,,150.0,33,CCS2
+Germany,460289,Filderstadt,,150.0,33,CCS2
+Germany,460288,Nürtingen,,300.0,33,CCS2
+Germany,460287,Köngen,,150.0,33,CCS2
+Germany,460286,Kirchheim unter Teck,,300.0,33,CCS2
+Germany,460285,Merklingen,,300.0,33,CCS2
+Germany,460282,Jettingen-Scheppach,,350.0,33,CCS2
+Germany,460281,Jettingen-Scheppach,,300.0,33,CCS2
+Germany,460239,Engelsbrand/Salmbach,Enzkreis,22.0,25,Type 2
+Germany,460239,Engelsbrand/Salmbach,Enzkreis,22.0,25,Type 2
+Germany,460179,Teltow,,300.0,33,CCS2
+Germany,460179,Teltow,,300.0,33,CCS2
+Germany,460169,Arendsee,Sachsen-Anhalt,11.0,25,Type 2
+Germany,459918,Dietzenbach,Hessen,22.0,25,Type 2
+Germany,459912,Dietzenbach,Hessen,22.0,25,Type 2
+Germany,459911,Dietzenbach,Hessen,22.0,25,Type 2
+Germany,459396,Eckental,Bayern,22.0,25,Type 2
+Germany,459396,Eckental,Bayern,22.0,25,Type 2
+Germany,459330,Eislingen,Baden-Württemberg,22.0,1036,Tesla
+Germany,459326,Nettetal,,300.0,33,CCS2
+Germany,458939,Merklingen,,9.0,25,Type 2
+Germany,458927,Wuppertal,,60.0,33,CCS2
+Germany,458927,Wuppertal,,11.0,25,Type 2
+Germany,456449,Braunlage,,12.7,1036,Tesla
+Germany,456449,Braunlage,,12.7,1036,Tesla
+Germany,456412,Bad Emstal,,12.7,1036,Tesla
+Germany,456412,Bad Emstal,,12.7,1036,Tesla
+Germany,456411,Rötha,,12.7,1036,Tesla
+Germany,456411,Rötha,,12.7,1036,Tesla
+Germany,456411,Rötha,,12.7,1036,Tesla
+Germany,456411,Rötha,,12.7,1036,Tesla
+Germany,456410,Winterberg,,12.7,1036,Tesla
+Germany,456410,Winterberg,,12.7,1036,Tesla
+Germany,456409,Olpe,,12.7,1036,Tesla
+Germany,456409,Olpe,,12.7,1036,Tesla
+Germany,456408,Olpe,,12.7,1036,Tesla
+Germany,456408,Olpe,,12.7,1036,Tesla
+Germany,456397,Callenberg,,12.7,1036,Tesla
+Germany,456397,Callenberg,,12.7,1036,Tesla
+Germany,456396,Mittelkalbach,,12.7,1036,Tesla
+Germany,456396,Mittelkalbach,,12.7,1036,Tesla
+Germany,456396,Mittelkalbach,,12.7,1036,Tesla
+Germany,456396,Mittelkalbach,,12.7,1036,Tesla
+Germany,456395,Blankenheim,,12.7,1036,Tesla
+Germany,456395,Blankenheim,,12.7,1036,Tesla
+Germany,456394,Waxweiler,,12.7,1036,Tesla
+Germany,456394,Waxweiler,,12.7,1036,Tesla
+Germany,456393,Waxweiler Duitsland,,12.7,1036,Tesla
+Germany,456393,Waxweiler Duitsland,,12.7,1036,Tesla
+Germany,456392,Unterwössen,,12.7,1036,Tesla
+Germany,456392,Unterwössen,,12.7,1036,Tesla
+Germany,456391,Isny im Allgäu,,12.7,1036,Tesla
+Germany,456391,Isny im Allgäu,,12.7,1036,Tesla
+Germany,313983,Seitingen-Oberflacht,Tuttlingen,150.0,33,CCS2
+Germany,313983,Seitingen-Oberflacht,Tuttlingen,22.0,25,Type 2
+Germany,313981,Aachen - Kornelimünster,NRW,22.0,25,Type 2
+Germany,313345,Ulm-Wiblingen,,22.0,25,Type 2
+Germany,313345,Ulm-Wiblingen,,22.0,25,Type 2
+Germany,313287,,,250.0,33,CCS2
+Germany,313286,,,250.0,33,CCS2
+Germany,313285,,,250.0,33,CCS2
+Germany,313284,,,250.0,33,CCS2
+Germany,313283,,,250.0,33,CCS2
+Germany,313282,,,250.0,33,CCS2
+Germany,313281,,,250.0,33,CCS2
+Germany,313280,,,250.0,33,CCS2
+Germany,313279,,,250.0,33,CCS2
+Germany,313278,,,250.0,33,CCS2
+Germany,313277,,,250.0,33,CCS2
+Germany,313276,,,250.0,33,CCS2
+Germany,313275,,,250.0,33,CCS2
+Germany,313274,,,250.0,33,CCS2
+Germany,313273,,,250.0,33,CCS2
+Germany,313216,,,250.0,33,CCS2
+Germany,313215,,,250.0,33,CCS2
+Germany,313214,,,250.0,33,CCS2
+Germany,313213,,,250.0,33,CCS2
+Germany,313212,,,250.0,33,CCS2
+Germany,313211,,,250.0,33,CCS2
+Germany,313210,,,250.0,33,CCS2
+Germany,313209,,,250.0,33,CCS2
+Germany,313208,,,250.0,33,CCS2
+Germany,313207,,,250.0,33,CCS2
+Germany,313206,,,250.0,33,CCS2
+Germany,313205,,,250.0,33,CCS2
+Germany,313204,,,250.0,33,CCS2
+Germany,313203,,,250.0,33,CCS2
+Germany,313202,,,250.0,33,CCS2
+Germany,313201,,,250.0,33,CCS2
+Germany,313200,,,250.0,33,CCS2
+Germany,313199,,,250.0,33,CCS2
+Germany,313198,,,250.0,33,CCS2
+Germany,313197,,,250.0,33,CCS2
+Germany,313196,,,250.0,33,CCS2
+Germany,313195,,,250.0,33,CCS2
+Germany,313194,,,250.0,33,CCS2
+Germany,313193,,,250.0,33,CCS2
+Germany,313192,,,250.0,33,CCS2
+Germany,313191,,,250.0,33,CCS2
+Germany,313190,,,250.0,33,CCS2
+Germany,313189,,,250.0,33,CCS2
+Germany,313188,,,250.0,33,CCS2
+Germany,313187,,,250.0,33,CCS2
+Germany,313186,,,250.0,33,CCS2
+Germany,313185,,,250.0,33,CCS2
+Germany,313184,,,250.0,33,CCS2
+Germany,313183,,,250.0,33,CCS2
+Germany,313182,,,250.0,33,CCS2
+Germany,313181,,,250.0,33,CCS2
+France,487206,Saint-Bonnet-de-Mure,Auvergne-Rhône-Alpes,50.0,33,CCS2
+France,487206,Saint-Bonnet-de-Mure,Auvergne-Rhône-Alpes,22.0,1036,Tesla
+France,487206,Saint-Bonnet-de-Mure,Auvergne-Rhône-Alpes,50.0,2,CHAdeMO
+France,487193,Frouard,Grand Est,300.0,33,CCS2
+France,487193,Frouard,Grand Est,22.0,25,Type 2
+France,487191,Puilboreau,Nouvelle-Aquitaine,300.0,33,CCS2
+France,487190,Villejuif,Île-de-France,200.0,33,CCS2
+France,487189,Béthune,Hauts-de-France,200.0,33,CCS2
+France,487187,Gennevilliers,Île-de-France,300.0,33,CCS2
+France,486928,Allonne,Hauts-de-France,300.0,33,CCS2
+France,486926,Survilliers,Île-de-France,300.0,33,CCS2
+France,486485,Tarbes,Occitanie,250.0,33,CCS2
+France,486361,Maurepas,Île-de-France,150.0,33,CCS2
+France,486361,Maurepas,Île-de-France,22.0,25,Type 2
+France,486360,Maurepas,Île-de-France,200.0,33,CCS2
+France,486188,Chaufour-Lès-Bonnières,Île-de-France,320.0,33,CCS2
+France,486188,Chaufour-Lès-Bonnières,Île-de-France,22.0,25,Type 2
+France,486187,Chalon-sur-Saône,Bourgogne-Franche-Comté,600.0,33,CCS2
+France,485718,Nanterre,Île-de-France,300.0,33,CCS2
+France,485659,Biarritz,Nouvelle-Aquitaine,300.0,33,CCS2
+France,485274,Mantes-la-Ville,Île-de-France,300.0,33,CCS2
+France,485273,Senlis,Hauts-de-France,400.0,33,CCS2
+France,485272,Dijon,Bourgogne-Franche-Comté,600.0,33,CCS2
+France,485101,Abbeville,Hauts-de-France,250.0,33,CCS2
+France,481549,Limoges,Nouvelle-Aquitaine,250.0,33,CCS2
+France,481548,Vannes,Bretagne,320.0,33,CCS2
+France,481548,Vannes,Bretagne,22.0,25,Type 2
+France,481479,Bourg-Sainte-Marie ,haute marne,7.0,1036,Tesla
+France,480943,Sassenage,Auvergne-Rhône-Alpes,50.0,33,CCS2
+France,480943,Sassenage,Auvergne-Rhône-Alpes,50.0,2,CHAdeMO
+France,480943,Sassenage,Auvergne-Rhône-Alpes,22.0,25,Type 2
+France,480942,Mitry-Mory,Île-de-France,300.0,33,CCS2
+France,480929,PREVENCHERES,france,150.0,33,CCS2
+France,480801,Fresnes,Île-de-France,300.0,33,CCS2
+France,480798,Artigues-près-Bordeaux,Nouvelle-Aquitaine,350.0,33,CCS2
+France,480798,Artigues-près-Bordeaux,Nouvelle-Aquitaine,400.0,33,CCS2
+France,480792,Roissy-en-France,,250.0,33,CCS2
+France,480762,La Madeleine-de-Nonancourt,Normandie,400.0,33,CCS2
+France,480761,Perpignan,Occitanie,300.0,33,CCS2
+France,480755,Goussainville,Île-de-France,250.0,33,CCS2
+France,480749,Valence,Auvergne-Rhône-Alpes,400.0,33,CCS2
+France,480749,Valence,Auvergne-Rhône-Alpes,50.0,2,CHAdeMO
+France,480687,Saran,Centre-Val de Loire,300.0,33,CCS2
+France,480686,Auzouer-en-Touraine,Centre-Val de Loire,400.0,33,CCS2
+France,480686,Auzouer-en-Touraine,Centre-Val de Loire,100.0,33,CCS2
+France,480686,Auzouer-en-Touraine,Centre-Val de Loire,100.0,2,CHAdeMO
+France,480686,Auzouer-en-Touraine,Centre-Val de Loire,22.0,25,Type 2
+France,480685,Auzouer-en-Touraine,Centre-Val de Loire,400.0,33,CCS2
+France,480685,Auzouer-en-Touraine,Centre-Val de Loire,100.0,33,CCS2
+France,480685,Auzouer-en-Touraine,Centre-Val de Loire,100.0,2,CHAdeMO
+France,480685,Auzouer-en-Touraine,Centre-Val de Loire,22.0,25,Type 2
+France,480684,Riom,Auvergne-Rhône-Alpes,120.0,33,CCS2
+France,480683,Orsay,,300.0,33,CCS2
+France,480682,Valserhône,Auvergne-Rhône-Alpes,320.0,33,CCS2
+France,480682,Valserhône,Auvergne-Rhône-Alpes,22.0,25,Type 2
+France,480669,Castelnaudary,Occitanie,250.0,33,CCS2
+France,480668,Vesoul,Bourgogne-Franche-Comté,250.0,33,CCS2
+France,480667,Cosne-Cours-sur-Loire,Bourgogne-Franche-Comté,250.0,33,CCS2
+France,480666,Chilly-Mazarin,,250.0,33,CCS2
+France,480665,Baigneux-les-Juifs,Bourgogne-Franche-Comté,42.0,1036,Tesla
+France,480665,Baigneux-les-Juifs,Bourgogne-Franche-Comté,50.0,33,CCS2
+France,480665,Baigneux-les-Juifs,Bourgogne-Franche-Comté,50.0,2,CHAdeMO
+France,480627,Scionzier,Auvergne-Rhône-Alpes,250.0,33,CCS2
+France,480626,Sausheim,Grand Est,250.0,33,CCS2
+France,480607,L'Isle-d'Abeau,Auvergne-Rhône-Alpes,200.0,33,CCS2
+France,480607,L'Isle-d'Abeau,Auvergne-Rhône-Alpes,22.0,25,Type 2
+France,480548,Phalsbourg,Grand Est,250.0,33,CCS2
+France,480327,Canet-en-Roussillon ,,100.0,33,CCS2
+France,480327,Canet-en-Roussillon ,,150.0,33,CCS2
+France,480327,Canet-en-Roussillon ,,22.0,25,Type 2
+France,480032,Brie-Comte-Robert,,150.0,33,CCS2
+France,480032,Brie-Comte-Robert,,22.0,25,Type 2
+France,480031,Avesnes-sur-Helpe,Hauts-de-France,150.0,33,CCS2
+France,480031,Avesnes-sur-Helpe,Hauts-de-France,22.0,25,Type 2
+France,480030,Olivet,Centre-Val de Loire,150.0,33,CCS2
+France,480030,Olivet,Centre-Val de Loire,22.0,25,Type 2
+France,479874,Beaune-la-Rolande,Centre-Val de Loire,500.0,33,CCS2
+France,479874,Beaune-la-Rolande,Centre-Val de Loire,200.0,33,CCS2
+France,479873,Roye,Hauts-de-France,320.0,33,CCS2
+France,479873,Roye,Hauts-de-France,22.0,25,Type 2
+France,479872,Cormontreuil,Grand Est,200.0,33,CCS2
+France,479871,Aix-en-Provence,Provence-Alpes-Côte d'Azur,300.0,33,CCS2
+France,479871,Aix-en-Provence,Provence-Alpes-Côte d'Azur,22.0,25,Type 2
+France,479871,Aix-en-Provence,Provence-Alpes-Côte d'Azur,150.0,33,CCS2
+France,479870,Nîmes,Occitanie,300.0,33,CCS2
+France,479868,Livry-Gargan,Île-de-France,300.0,33,CCS2
+France,479867,Quimper,Bretagne,300.0,33,CCS2
+France,479865,Lesparre-Médoc,Nouvelle-Aquitaine,200.0,33,CCS2
+France,479864,Amilly,Centre-Val de Loire,200.0,33,CCS2
+France,479863,Athis-Mons,,200.0,33,CCS2
+France,479808,Cholet,Pays de la Loire,250.0,33,CCS2
+France,479807,Le Mans,Pays de la Loire,250.0,33,CCS2
+France,479015,Livry-Gargan,Île-de-France,250.0,33,CCS2
+France,479014,Brive-la-Gaillarde,Nouvelle-Aquitaine,250.0,33,CCS2
+France,478984,Saint-Cyprien,Nouvelle-Aquitaine,200.0,33,CCS2
+France,478984,Saint-Cyprien,Nouvelle-Aquitaine,50.0,2,CHAdeMO
+France,478984,Saint-Cyprien,Nouvelle-Aquitaine,22.0,25,Type 2
+France,478983,Bergerac,Nouvelle-Aquitaine,200.0,33,CCS2
+France,478983,Bergerac,Nouvelle-Aquitaine,50.0,2,CHAdeMO
+France,478983,Bergerac,Nouvelle-Aquitaine,22.0,25,Type 2
+France,478983,Bergerac,Nouvelle-Aquitaine,160.0,33,CCS2
+France,478982,Bergerac,Nouvelle-Aquitaine,50.0,33,CCS2
+France,478982,Bergerac,Nouvelle-Aquitaine,50.0,2,CHAdeMO
+France,478982,Bergerac,Nouvelle-Aquitaine,22.0,25,Type 2
+France,478981,Bergerac,Nouvelle-Aquitaine,200.0,33,CCS2
+France,478981,Bergerac,Nouvelle-Aquitaine,22.0,25,Type 2
+France,478980,Bergerac,Nouvelle-Aquitaine,200.0,33,CCS2
+France,478980,Bergerac,Nouvelle-Aquitaine,50.0,2,CHAdeMO
+France,478980,Bergerac,Nouvelle-Aquitaine,22.0,25,Type 2
+France,478980,Bergerac,Nouvelle-Aquitaine,160.0,33,CCS2
+France,478979,Saint-Laurent-des-Vignes,Nouvelle-Aquitaine,100.0,33,CCS2
+France,478979,Saint-Laurent-des-Vignes,Nouvelle-Aquitaine,22.0,25,Type 2
+France,478965,Pineuilh,Nouvelle-Aquitaine,200.0,33,CCS2
+France,478965,Pineuilh,Nouvelle-Aquitaine,100.0,33,CCS2
+France,478965,Pineuilh,Nouvelle-Aquitaine,22.0,25,Type 2
+France,478825,Baugy (71),France,7.0,1036,Tesla
+France,478730,,Auvergne-Rhône-Alpes,180.0,33,CCS2
+France,478730,,Auvergne-Rhône-Alpes,22.0,25,Type 2
+France,478728,,Bourgogne-Franche-Comté,150.0,33,CCS2
+France,478728,,Bourgogne-Franche-Comté,22.0,25,Type 2
+France,478728,,Bourgogne-Franche-Comté,7.0,25,Type 2
+France,478726,Saint-Dizier,Grand Est,380.0,33,CCS2
+France,478726,Saint-Dizier,Grand Est,22.0,25,Type 2
+France,478675,Is-sur-Tille,Bourgogne-Franche-Comté,200.0,33,CCS2
+France,478675,Is-sur-Tille,Bourgogne-Franche-Comté,50.0,2,CHAdeMO
+France,478675,Is-sur-Tille,Bourgogne-Franche-Comté,22.0,25,Type 2
+France,478675,Is-sur-Tille,Bourgogne-Franche-Comté,100.0,33,CCS2
+France,478674,Langres,Grand Est,50.0,33,CCS2
+France,478674,Langres,Grand Est,50.0,2,CHAdeMO
+France,478674,Langres,Grand Est,22.0,25,Type 2
+France,478673,Nogent,Grand Est,200.0,33,CCS2
+France,478673,Nogent,Grand Est,50.0,2,CHAdeMO
+France,478673,Nogent,Grand Est,22.0,25,Type 2
+France,478673,Nogent,Grand Est,160.0,33,CCS2
+France,478672,Chaumont,Grand Est,200.0,33,CCS2
+France,478672,Chaumont,Grand Est,50.0,2,CHAdeMO
+France,478672,Chaumont,Grand Est,22.0,25,Type 2
+France,478672,Chaumont,Grand Est,160.0,33,CCS2
+France,478671,Châtenois,Grand Est,100.0,33,CCS2
+France,478671,Châtenois,Grand Est,50.0,2,CHAdeMO
+France,478671,Châtenois,Grand Est,22.0,25,Type 2
+France,478670,Neufchâteau,Grand Est,200.0,33,CCS2
+France,478670,Neufchâteau,Grand Est,50.0,2,CHAdeMO
+France,478670,Neufchâteau,Grand Est,22.0,25,Type 2
+France,478670,Neufchâteau,Grand Est,100.0,33,CCS2
+France,478669,Neufchâteau,Grand Est,200.0,33,CCS2
+France,478669,Neufchâteau,Grand Est,50.0,2,CHAdeMO
+France,478669,Neufchâteau,Grand Est,22.0,25,Type 2
+France,478669,Neufchâteau,Grand Est,100.0,33,CCS2
+France,478668,Liffol-le-Grand,Grand Est,100.0,33,CCS2
+France,478668,Liffol-le-Grand,Grand Est,50.0,2,CHAdeMO
+France,478668,Liffol-le-Grand,Grand Est,22.0,25,Type 2
+France,478667,Toul,Grand Est,100.0,33,CCS2
+France,478667,Toul,Grand Est,50.0,2,CHAdeMO
+France,478667,Toul,Grand Est,22.0,25,Type 2
+France,478667,Toul,Grand Est,50.0,33,CCS2
+France,478667,Toul,Grand Est,200.0,33,CCS2
+France,478666,Toul,Grand Est,200.0,33,CCS2
+France,478666,Toul,Grand Est,50.0,2,CHAdeMO
+France,478666,Toul,Grand Est,22.0,25,Type 2
+France,478665,Écrouves,Grand Est,200.0,33,CCS2
+France,478665,Écrouves,Grand Est,50.0,2,CHAdeMO
+France,478664,Commercy,Grand Est,50.0,33,CCS2
+France,478664,Commercy,Grand Est,50.0,2,CHAdeMO
+France,478664,Commercy,Grand Est,22.0,25,Type 2
+France,478662,Commercy,Grand Est,200.0,33,CCS2
+France,478662,Commercy,Grand Est,50.0,2,CHAdeMO
+France,478662,Commercy,Grand Est,22.0,25,Type 2
+France,478662,Commercy,Grand Est,160.0,33,CCS2
+France,478660,Commercy,Grand Est,200.0,33,CCS2
+France,478660,Commercy,Grand Est,50.0,2,CHAdeMO
+France,478660,Commercy,Grand Est,22.0,25,Type 2
+France,478660,Commercy,Grand Est,160.0,33,CCS2
+France,478658,Laon,Hauts-de-France,100.0,33,CCS2
+France,478658,Laon,Hauts-de-France,50.0,2,CHAdeMO
+France,478658,Laon,Hauts-de-France,22.0,25,Type 2
+France,478655,Hirson,Hauts-de-France,200.0,33,CCS2
+France,478655,Hirson,Hauts-de-France,50.0,2,CHAdeMO
+France,478655,Hirson,Hauts-de-France,22.0,25,Type 2
+France,478653,Vireux-Molhain,Grand Est,120.0,33,CCS2
+France,478653,Vireux-Molhain,Grand Est,22.0,25,Type 2
+France,478651,Charleville-Mézières,Grand Est,100.0,33,CCS2
+France,478651,Charleville-Mézières,Grand Est,50.0,2,CHAdeMO
+France,478651,Charleville-Mézières,Grand Est,22.0,25,Type 2
+France,478651,Charleville-Mézières,Grand Est,50.0,33,CCS2
+France,478651,Charleville-Mézières,Grand Est,160.0,33,CCS2
+France,478649,Villers-Semeuse,Grand Est,100.0,33,CCS2
+France,478649,Villers-Semeuse,Grand Est,50.0,2,CHAdeMO
+France,478649,Villers-Semeuse,Grand Est,22.0,25,Type 2
+France,478649,Villers-Semeuse,Grand Est,50.0,33,CCS2
+France,478649,Villers-Semeuse,Grand Est,200.0,33,CCS2
+France,478645,Verdun,Grand Est,100.0,33,CCS2
+France,478645,Verdun,Grand Est,50.0,2,CHAdeMO
+France,478645,Verdun,Grand Est,22.0,25,Type 2
+France,478645,Verdun,Grand Est,50.0,33,CCS2
+France,478644,Longuyon,Grand Est,100.0,33,CCS2
+France,478644,Longuyon,Grand Est,50.0,2,CHAdeMO
+France,478644,Longuyon,Grand Est,22.0,25,Type 2
+France,478643,Longwy,Grand Est,100.0,33,CCS2
+France,478643,Longwy,Grand Est,50.0,2,CHAdeMO
+France,478643,Longwy,Grand Est,22.0,25,Type 2
+France,478642,Villerupt,Grand Est,200.0,33,CCS2
+France,478642,Villerupt,Grand Est,50.0,2,CHAdeMO
+France,478642,Villerupt,Grand Est,22.0,25,Type 2
+France,478642,Villerupt,Grand Est,160.0,33,CCS2
+France,478641,Fontoy,Grand Est,200.0,33,CCS2
+France,478641,Fontoy,Grand Est,50.0,2,CHAdeMO
+France,478641,Fontoy,Grand Est,22.0,25,Type 2
+France,478641,Fontoy,Grand Est,100.0,33,CCS2
+France,478638,Algrange,Grand Est,100.0,33,CCS2
+France,478638,Algrange,Grand Est,50.0,2,CHAdeMO
+France,478638,Algrange,Grand Est,22.0,25,Type 2
+France,478637,Thionville,Grand Est,100.0,33,CCS2
+France,478637,Thionville,Grand Est,50.0,2,CHAdeMO
+France,478637,Thionville,Grand Est,22.0,25,Type 2
+France,478637,Thionville,Grand Est,50.0,33,CCS2
+France,478636,Yutz,Grand Est,200.0,33,CCS2
+France,478636,Yutz,Grand Est,50.0,2,CHAdeMO
+France,478636,Yutz,Grand Est,22.0,25,Type 2
+France,478636,Yutz,Grand Est,160.0,33,CCS2
+France,478635,Jarny,Grand Est,200.0,33,CCS2
+France,478635,Jarny,Grand Est,50.0,2,CHAdeMO
+France,478635,Jarny,Grand Est,22.0,25,Type 2
+France,478634,Jarny,Grand Est,100.0,33,CCS2
+France,478634,Jarny,Grand Est,50.0,2,CHAdeMO
+France,478634,Jarny,Grand Est,22.0,25,Type 2
+France,478613,Val de Briey,Grand Est,100.0,33,CCS2
+France,478613,Val de Briey,Grand Est,50.0,2,CHAdeMO
+France,478613,Val de Briey,Grand Est,22.0,25,Type 2
+France,478613,Val de Briey,Grand Est,50.0,33,CCS2
+France,478610,Val de Briey,Grand Est,200.0,33,CCS2
+France,478610,Val de Briey,Grand Est,50.0,2,CHAdeMO
+France,478610,Val de Briey,Grand Est,22.0,25,Type 2
+France,478610,Val de Briey,Grand Est,100.0,33,CCS2
+France,478609,Sainte-Marie-aux-Chênes,Grand Est,100.0,33,CCS2
+France,478609,Sainte-Marie-aux-Chênes,Grand Est,50.0,2,CHAdeMO
+France,478609,Sainte-Marie-aux-Chênes,Grand Est,22.0,25,Type 2
+France,478609,Sainte-Marie-aux-Chênes,Grand Est,200.0,33,CCS2
+France,478608,Sainte-Marie-aux-Chênes,Grand Est,100.0,33,CCS2
+France,478608,Sainte-Marie-aux-Chênes,Grand Est,50.0,2,CHAdeMO
+France,478608,Sainte-Marie-aux-Chênes,Grand Est,22.0,25,Type 2
+France,478608,Sainte-Marie-aux-Chênes,Grand Est,200.0,33,CCS2
+France,478607,Valleroy,Grand Est,200.0,33,CCS2
+France,478607,Valleroy,Grand Est,50.0,2,CHAdeMO
+France,478607,Valleroy,Grand Est,22.0,25,Type 2
+France,478596,Graçay,Centre-Val de Loire,300.0,33,CCS2
+France,478595,Jœuf,Grand Est,200.0,33,CCS2
+France,478595,Jœuf,Grand Est,150.0,33,CCS2
+France,478595,Jœuf,Grand Est,22.0,25,Type 2
+France,478595,Jœuf,Grand Est,100.0,33,CCS2
+France,478594,Amnéville,Grand Est,100.0,33,CCS2
+France,478594,Amnéville,Grand Est,50.0,2,CHAdeMO
+France,478594,Amnéville,Grand Est,22.0,25,Type 2
+France,478593,Amnéville,Grand Est,120.0,33,CCS2
+France,478593,Amnéville,Grand Est,50.0,2,CHAdeMO
+France,478593,Amnéville,Grand Est,22.0,25,Type 2
+France,478592,Mondelange,Grand Est,150.0,33,CCS2
+France,478592,Mondelange,Grand Est,50.0,2,CHAdeMO
+France,478592,Mondelange,Grand Est,22.0,25,Type 2
+France,478592,Mondelange,Grand Est,50.0,33,CCS2
+France,478592,Mondelange,Grand Est,100.0,33,CCS2
+France,478591,Talange,Grand Est,100.0,33,CCS2
+France,478591,Talange,Grand Est,50.0,2,CHAdeMO
+France,478591,Talange,Grand Est,22.0,25,Type 2
+France,478590,Talange,Grand Est,200.0,33,CCS2
+France,478590,Talange,Grand Est,50.0,2,CHAdeMO
+France,478590,Talange,Grand Est,22.0,25,Type 2
+France,478589,Woippy,Grand Est,100.0,33,CCS2
+France,478589,Woippy,Grand Est,50.0,2,CHAdeMO
+France,478589,Woippy,Grand Est,22.0,25,Type 2
+France,478589,Woippy,Grand Est,200.0,33,CCS2
+France,478588,Metz,Grand Est,100.0,33,CCS2
+France,478588,Metz,Grand Est,50.0,2,CHAdeMO
+France,478588,Metz,Grand Est,22.0,25,Type 2
+France,478588,Metz,Grand Est,24.0,33,CCS2
+France,478500,Montigny-lès-Metz,Grand Est,120.0,33,CCS2
+France,478500,Montigny-lès-Metz,Grand Est,50.0,2,CHAdeMO
+France,478500,Montigny-lès-Metz,Grand Est,22.0,25,Type 2
+France,478500,Montigny-lès-Metz,Grand Est,100.0,33,CCS2
+France,478499,Moulins-lès-Metz,Grand Est,200.0,33,CCS2
+France,478499,Moulins-lès-Metz,Grand Est,50.0,2,CHAdeMO
+France,478499,Moulins-lès-Metz,Grand Est,22.0,25,Type 2
+France,478499,Moulins-lès-Metz,Grand Est,100.0,33,CCS2
+France,478498,Augny,Grand Est,200.0,33,CCS2
+France,478498,Augny,Grand Est,50.0,2,CHAdeMO
+France,478498,Augny,Grand Est,22.0,25,Type 2
+France,478497,Augny,Grand Est,200.0,33,CCS2
+France,478497,Augny,Grand Est,50.0,2,CHAdeMO
+France,478497,Augny,Grand Est,22.0,25,Type 2
+France,478496,Pont-à-Mousson,Grand Est,200.0,33,CCS2
+France,478496,Pont-à-Mousson,Grand Est,50.0,2,CHAdeMO
+France,478496,Pont-à-Mousson,Grand Est,22.0,25,Type 2
+France,478496,Pont-à-Mousson,Grand Est,160.0,33,CCS2
+France,478495,Pont-à-Mousson,Grand Est,100.0,33,CCS2
+France,478495,Pont-à-Mousson,Grand Est,50.0,2,CHAdeMO
+France,478495,Pont-à-Mousson,Grand Est,22.0,25,Type 2
+France,478494,Pont-à-Mousson,Grand Est,120.0,33,CCS2
+France,478494,Pont-à-Mousson,Grand Est,22.0,25,Type 2
+France,478493,Treillières,Pays de la Loire,350.0,33,CCS2
+France,478493,Treillières,Pays de la Loire,400.0,33,CCS2
+France,478492,Les Clayes-sous-Bois,Île-de-France,250.0,33,CCS2
+France,478475,Rœux,Hauts-de-France,22.0,1036,Tesla
+France,478475,Rœux,Hauts-de-France,150.0,33,CCS2
+France,478428,Champigneulles,Grand Est,200.0,33,CCS2
+France,478428,Champigneulles,Grand Est,50.0,2,CHAdeMO
+France,478428,Champigneulles,Grand Est,22.0,25,Type 2
+France,478428,Champigneulles,Grand Est,160.0,33,CCS2
+France,478427,Malzéville,Grand Est,200.0,33,CCS2
+France,478427,Malzéville,Grand Est,50.0,2,CHAdeMO
+France,478427,Malzéville,Grand Est,22.0,25,Type 2
+France,478427,Malzéville,Grand Est,160.0,33,CCS2
+France,478426,Maxéville,Grand Est,100.0,33,CCS2
+France,478426,Maxéville,Grand Est,50.0,2,CHAdeMO
+France,478426,Maxéville,Grand Est,22.0,25,Type 2
+France,478425,Saint-Max,Grand Est,200.0,33,CCS2
+France,478425,Saint-Max,Grand Est,50.0,2,CHAdeMO
+France,478425,Saint-Max,Grand Est,22.0,25,Type 2
+France,478425,Saint-Max,Grand Est,100.0,33,CCS2
+France,478424,Villers-lès-Nancy,Grand Est,200.0,33,CCS2
+France,478424,Villers-lès-Nancy,Grand Est,50.0,2,CHAdeMO
+France,478424,Villers-lès-Nancy,Grand Est,22.0,25,Type 2
+France,478424,Villers-lès-Nancy,Grand Est,160.0,33,CCS2
+France,478423,Vandœuvre-lès-Nancy,Grand Est,100.0,33,CCS2
+France,478423,Vandœuvre-lès-Nancy,Grand Est,50.0,2,CHAdeMO
+France,478423,Vandœuvre-lès-Nancy,Grand Est,22.0,25,Type 2
+France,478422,Houdemont,Grand Est,200.0,33,CCS2
+France,478422,Houdemont,Grand Est,22.0,25,Type 2
+France,478421,Heillecourt,Grand Est,200.0,33,CCS2
+France,478421,Heillecourt,Grand Est,50.0,2,CHAdeMO
+France,478421,Heillecourt,Grand Est,22.0,25,Type 2
+France,478421,Heillecourt,Grand Est,120.0,33,CCS2
+France,478420,Dombasle-sur-Meurthe,Grand Est,100.0,33,CCS2
+France,478420,Dombasle-sur-Meurthe,Grand Est,50.0,2,CHAdeMO
+France,478420,Dombasle-sur-Meurthe,Grand Est,22.0,25,Type 2
+France,478419,Dombasle-sur-Meurthe,Grand Est,120.0,33,CCS2
+France,478419,Dombasle-sur-Meurthe,Grand Est,50.0,2,CHAdeMO
+France,478419,Dombasle-sur-Meurthe,Grand Est,22.0,25,Type 2
+France,478419,Dombasle-sur-Meurthe,Grand Est,100.0,33,CCS2
+France,478418,Lunéville,Grand Est,200.0,33,CCS2
+France,478418,Lunéville,Grand Est,50.0,2,CHAdeMO
+France,478417,Moncel-lès-Lunéville,Grand Est,200.0,33,CCS2
+France,478417,Moncel-lès-Lunéville,Grand Est,50.0,2,CHAdeMO
+France,478417,Moncel-lès-Lunéville,Grand Est,22.0,25,Type 2
+France,478416,Moncel-lès-Lunéville,Grand Est,200.0,33,CCS2
+France,478416,Moncel-lès-Lunéville,Grand Est,50.0,2,CHAdeMO
+France,478416,Moncel-lès-Lunéville,Grand Est,22.0,25,Type 2
+France,478416,Moncel-lès-Lunéville,Grand Est,50.0,33,CCS2
+France,478416,Moncel-lès-Lunéville,Grand Est,100.0,33,CCS2
+France,478415,Lunéville,Grand Est,200.0,33,CCS2
+France,478415,Lunéville,Grand Est,50.0,2,CHAdeMO
+France,478415,Lunéville,Grand Est,22.0,25,Type 2
+France,478414,Charmes,Grand Est,100.0,33,CCS2
+France,478414,Charmes,Grand Est,50.0,2,CHAdeMO
+France,478414,Charmes,Grand Est,22.0,25,Type 2
+France,478410,Porte-de-Savoie,Auvergne-Rhône-Alpes,250.0,33,CCS2
+France,478405,Charmes,Grand Est,200.0,33,CCS2
+France,478405,Charmes,Grand Est,50.0,2,CHAdeMO
+France,478405,Charmes,Grand Est,22.0,25,Type 2
+France,478404,Thaon-les-Vosges,Grand Est,100.0,33,CCS2
+France,478404,Thaon-les-Vosges,Grand Est,50.0,2,CHAdeMO
+France,478404,Thaon-les-Vosges,Grand Est,22.0,25,Type 2
+France,478403,Thaon-les-Vosges,Grand Est,200.0,33,CCS2
+France,478403,Thaon-les-Vosges,Grand Est,50.0,2,CHAdeMO
+France,478403,Thaon-les-Vosges,Grand Est,22.0,25,Type 2
+France,478403,Thaon-les-Vosges,Grand Est,160.0,33,CCS2
+France,478402,Jeuxey,Grand Est,100.0,33,CCS2
+France,478402,Jeuxey,Grand Est,50.0,2,CHAdeMO
+France,478402,Jeuxey,Grand Est,22.0,25,Type 2
+France,478401,Jeuxey,Grand Est,22.0,25,Type 2
+France,478400,Épinal,Grand Est,120.0,33,CCS2
+France,478400,Épinal,Grand Est,22.0,25,Type 2
+France,478399,Rambervillers,Grand Est,200.0,33,CCS2
+France,478399,Rambervillers,Grand Est,50.0,2,CHAdeMO
+France,478399,Rambervillers,Grand Est,22.0,25,Type 2
+France,478399,Rambervillers,Grand Est,100.0,33,CCS2
+France,478398,Rambervillers,Grand Est,200.0,33,CCS2
+France,478398,Rambervillers,Grand Est,50.0,2,CHAdeMO
+France,478398,Rambervillers,Grand Est,22.0,25,Type 2
+France,478397,Rémilly,Grand Est,100.0,33,CCS2
+France,478397,Rémilly,Grand Est,50.0,2,CHAdeMO
+France,478397,Rémilly,Grand Est,22.0,25,Type 2
+France,478396,Château-Salins,Grand Est,150.0,33,CCS2
+France,478396,Château-Salins,Grand Est,22.0,25,Type 2
+France,478395,Dieuze,Grand Est,100.0,33,CCS2
+France,478395,Dieuze,Grand Est,50.0,2,CHAdeMO
+France,478395,Dieuze,Grand Est,22.0,25,Type 2
+France,478394,Dieuze,Grand Est,50.0,33,CCS2
+France,478394,Dieuze,Grand Est,50.0,2,CHAdeMO
+France,478394,Dieuze,Grand Est,22.0,25,Type 2
+France,478393,Morhange,Grand Est,200.0,33,CCS2
+France,478393,Morhange,Grand Est,50.0,2,CHAdeMO
+France,478393,Morhange,Grand Est,22.0,25,Type 2
+France,478393,Morhange,Grand Est,160.0,33,CCS2
+France,478392,Morhange,Grand Est,100.0,33,CCS2
+France,478392,Morhange,Grand Est,50.0,2,CHAdeMO
+France,478391,Faulquemont,Grand Est,50.0,33,CCS2
+France,478391,Faulquemont,Grand Est,50.0,2,CHAdeMO
+France,478391,Faulquemont,Grand Est,22.0,25,Type 2
+France,478391,Faulquemont,Grand Est,100.0,33,CCS2
+France,478390,Saint-Avold,Grand Est,120.0,33,CCS2
+France,478390,Saint-Avold,Grand Est,50.0,2,CHAdeMO
+France,478390,Saint-Avold,Grand Est,22.0,25,Type 2
+France,478389,Longeville-lès-Saint-Avold,Grand Est,100.0,33,CCS2
+France,478389,Longeville-lès-Saint-Avold,Grand Est,50.0,2,CHAdeMO
+France,478389,Longeville-lès-Saint-Avold,Grand Est,22.0,25,Type 2
+France,478389,Longeville-lès-Saint-Avold,Grand Est,50.0,33,CCS2
+France,478389,Longeville-lès-Saint-Avold,Grand Est,150.0,33,CCS2
+France,478389,Longeville-lès-Saint-Avold,Grand Est,170.0,33,CCS2
+France,478388,Freyming-Merlebach,Grand Est,120.0,33,CCS2
+France,478388,Freyming-Merlebach,Grand Est,22.0,25,Type 2
+France,478387,Forbach,Grand Est,200.0,33,CCS2
+France,478387,Forbach,Grand Est,50.0,2,CHAdeMO
+France,478386,Hambach,Grand Est,100.0,33,CCS2
+France,478386,Hambach,Grand Est,50.0,2,CHAdeMO
+France,478386,Hambach,Grand Est,22.0,25,Type 2
+France,478386,Hambach,Grand Est,50.0,33,CCS2
+France,478385,Sarreguemines,Grand Est,100.0,33,CCS2
+France,478385,Sarreguemines,Grand Est,50.0,2,CHAdeMO
+France,478385,Sarreguemines,Grand Est,22.0,25,Type 2
+France,478385,Sarreguemines,Grand Est,160.0,33,CCS2
+France,478384,Sarralbe,Grand Est,200.0,33,CCS2
+France,478384,Sarralbe,Grand Est,50.0,2,CHAdeMO
+France,478384,Sarralbe,Grand Est,22.0,25,Type 2
+France,478384,Sarralbe,Grand Est,160.0,33,CCS2
+France,478383,Sarrebourg,Grand Est,100.0,33,CCS2
+France,478383,Sarrebourg,Grand Est,50.0,2,CHAdeMO
+France,478383,Sarrebourg,Grand Est,22.0,25,Type 2
+France,478383,Sarrebourg,Grand Est,50.0,33,CCS2
+France,478383,Sarrebourg,Grand Est,200.0,33,CCS2
+France,478382,Buhl-Lorraine,Grand Est,100.0,33,CCS2
+France,478382,Buhl-Lorraine,Grand Est,50.0,2,CHAdeMO
+France,478382,Buhl-Lorraine,Grand Est,22.0,25,Type 2
+France,478382,Buhl-Lorraine,Grand Est,50.0,33,CCS2
+France,478367,Saverne,Grand Est,50.0,33,CCS2
+France,478367,Saverne,Grand Est,50.0,2,CHAdeMO
+France,478367,Saverne,Grand Est,22.0,25,Type 2
+France,478367,Saverne,Grand Est,200.0,33,CCS2
+France,478366,Diemeringen,Grand Est,160.0,33,CCS2
+France,478366,Diemeringen,Grand Est,50.0,2,CHAdeMO
+France,478366,Diemeringen,Grand Est,22.0,25,Type 2
+France,478365,Rohrbach-lès-Bitche,Grand Est,50.0,33,CCS2
+France,478365,Rohrbach-lès-Bitche,Grand Est,50.0,2,CHAdeMO
+France,478365,Rohrbach-lès-Bitche,Grand Est,22.0,25,Type 2
+France,478364,Bitche,,50.0,33,CCS2
+France,478364,Bitche,,50.0,2,CHAdeMO
+France,478364,Bitche,,22.0,25,Type 2
+France,478363,Wissembourg,Grand Est,200.0,33,CCS2
+France,478363,Wissembourg,Grand Est,50.0,2,CHAdeMO
+France,478363,Wissembourg,Grand Est,22.0,25,Type 2
+France,478363,Wissembourg,Grand Est,100.0,33,CCS2
+France,478362,Wissembourg,Grand Est,200.0,33,CCS2
+France,478362,Wissembourg,Grand Est,50.0,2,CHAdeMO
+France,478362,Wissembourg,Grand Est,22.0,25,Type 2
+France,478362,Wissembourg,Grand Est,100.0,33,CCS2
+France,478361,Soultz-sous-Forêts,Grand Est,200.0,33,CCS2
+France,478361,Soultz-sous-Forêts,Grand Est,50.0,2,CHAdeMO
+France,478361,Soultz-sous-Forêts,Grand Est,22.0,25,Type 2
+France,478361,Soultz-sous-Forêts,Grand Est,160.0,33,CCS2
+France,478360,Haguenau,Grand Est,100.0,33,CCS2
+France,478360,Haguenau,Grand Est,50.0,2,CHAdeMO
+France,478360,Haguenau,Grand Est,22.0,25,Type 2
+France,478359,Haguenau,Grand Est,100.0,33,CCS2
+France,478359,Haguenau,Grand Est,50.0,2,CHAdeMO
+France,478359,Haguenau,Grand Est,22.0,25,Type 2
+France,478358,Bernolsheim,Grand Est,200.0,33,CCS2
+France,478358,Bernolsheim,Grand Est,50.0,2,CHAdeMO
+France,478358,Bernolsheim,Grand Est,22.0,25,Type 2
+France,478357,Vendenheim,Grand Est,50.0,33,CCS2
+France,478357,Vendenheim,Grand Est,50.0,2,CHAdeMO
+France,478357,Vendenheim,Grand Est,22.0,25,Type 2
+France,478357,Vendenheim,Grand Est,150.0,33,CCS2
+France,478356,Mundolsheim,Grand Est,50.0,33,CCS2
+France,478356,Mundolsheim,Grand Est,50.0,2,CHAdeMO
+France,478356,Mundolsheim,Grand Est,22.0,25,Type 2
+France,478356,Mundolsheim,Grand Est,100.0,33,CCS2
+France,478355,Mundolsheim,Grand Est,50.0,33,CCS2
+France,478355,Mundolsheim,Grand Est,50.0,2,CHAdeMO
+France,478355,Mundolsheim,Grand Est,22.0,25,Type 2
+France,478355,Mundolsheim,Grand Est,150.0,33,CCS2
+France,478354,Bischheim,Grand Est,150.0,33,CCS2
+France,478354,Bischheim,Grand Est,50.0,2,CHAdeMO
+France,478354,Bischheim,Grand Est,22.0,25,Type 2
+France,478354,Bischheim,Grand Est,50.0,33,CCS2
+France,478353,Strasbourg,Grand Est,22.0,25,Type 2
+France,478352,Achenheim,Grand Est,200.0,33,CCS2
+France,478352,Achenheim,Grand Est,50.0,2,CHAdeMO
+France,478352,Achenheim,Grand Est,22.0,25,Type 2
+France,478352,Achenheim,Grand Est,160.0,33,CCS2
+France,478351,Entzheim,Grand Est,50.0,33,CCS2
+France,478351,Entzheim,Grand Est,50.0,2,CHAdeMO
+France,478351,Entzheim,Grand Est,22.0,25,Type 2
+France,478350,Geispolsheim,Grand Est,100.0,33,CCS2
+France,478350,Geispolsheim,Grand Est,50.0,2,CHAdeMO
+France,478350,Geispolsheim,Grand Est,22.0,25,Type 2
+France,478349,Dorlisheim,Grand Est,100.0,33,CCS2
+France,478349,Dorlisheim,Grand Est,50.0,2,CHAdeMO
+France,478349,Dorlisheim,Grand Est,22.0,25,Type 2
+France,478349,Dorlisheim,Grand Est,50.0,33,CCS2
+France,478349,Dorlisheim,Grand Est,200.0,33,CCS2
+France,478349,Dorlisheim,Grand Est,120.0,33,CCS2
+France,478348,Russ,Grand Est,50.0,33,CCS2
+France,478348,Russ,Grand Est,50.0,2,CHAdeMO
+France,478348,Russ,Grand Est,22.0,25,Type 2
+France,478347,Gertwiller,Grand Est,200.0,33,CCS2
+France,478347,Gertwiller,Grand Est,22.0,25,Type 2
+France,478346,Benfeld,Grand Est,120.0,33,CCS2
+France,478346,Benfeld,Grand Est,50.0,2,CHAdeMO
+France,478346,Benfeld,Grand Est,22.0,25,Type 2
+France,478345,Sélestat,Grand Est,100.0,33,CCS2
+France,478345,Sélestat,Grand Est,50.0,2,CHAdeMO
+France,478345,Sélestat,Grand Est,22.0,25,Type 2
+France,478345,Sélestat,Grand Est,120.0,33,CCS2
+France,478344,Sélestat,Grand Est,200.0,33,CCS2
+France,478344,Sélestat,Grand Est,50.0,2,CHAdeMO
+France,478344,Sélestat,Grand Est,22.0,25,Type 2
+France,478343,Sélestat,Grand Est,200.0,33,CCS2
+France,478343,Sélestat,Grand Est,24.0,2,CHAdeMO
+France,478343,Sélestat,Grand Est,22.0,25,Type 2
+France,478343,Sélestat,Grand Est,24.0,33,CCS2
+France,478342,Neuve-Église,Grand Est,100.0,33,CCS2
+France,478342,Neuve-Église,Grand Est,22.0,25,Type 2
+France,478341,Moyenmoutier,Grand Est,100.0,33,CCS2
+France,478341,Moyenmoutier,Grand Est,50.0,2,CHAdeMO
+France,478341,Moyenmoutier,Grand Est,22.0,25,Type 2
+France,478340,Saint-Dié-des-Vosges,Grand Est,160.0,33,CCS2
+France,478340,Saint-Dié-des-Vosges,Grand Est,50.0,2,CHAdeMO
+France,478340,Saint-Dié-des-Vosges,Grand Est,22.0,25,Type 2
+France,478340,Saint-Dié-des-Vosges,Grand Est,200.0,33,CCS2
+France,478338,Saint-Dié-des-Vosges,Grand Est,100.0,33,CCS2
+France,478338,Saint-Dié-des-Vosges,Grand Est,50.0,2,CHAdeMO
+France,478338,Saint-Dié-des-Vosges,Grand Est,22.0,25,Type 2
+France,478338,Saint-Dié-des-Vosges,Grand Est,50.0,33,CCS2
+France,478338,Saint-Dié-des-Vosges,Grand Est,200.0,33,CCS2
+Spain,487275,,Catalunya,22.0,25,Type 2
+Spain,487274,,Euskadi,50.0,33,CCS2
+Spain,487273,,Cantabria,80.0,33,CCS2
+Spain,487273,,Cantabria,22.0,25,Type 2
+Spain,487272,,Cantabria,7.4,1036,Tesla
+Spain,487271,O Porriño,Galicia,22.0,25,Type 2
+Spain,486828,,Asturias / Asturies,11.0,25,Type 2
+Spain,486719,Vilallonga Del Camp,Catalunya,120.0,33,CCS2
+Spain,486661,Puerto del Rosario,Canarias,50.0,33,CCS2
+Spain,486661,Puerto del Rosario,Canarias,50.0,2,CHAdeMO
+Spain,486661,Puerto del Rosario,Canarias,43.0,1036,Tesla
+Spain,486660,,Andalucía,22.0,25,Type 2
+Spain,486659,,Andalucía,22.0,25,Type 2
+Spain,486658,,Andalucía,22.0,25,Type 2
+Spain,486657,,Andalucía,22.0,25,Type 2
+Spain,486656,Estepona,Andalucía,22.0,25,Type 2
+Spain,486655,,Región de Murcia,25.0,33,CCS2
+Spain,486655,,Región de Murcia,25.0,2,CHAdeMO
+Spain,486655,,Región de Murcia,22.0,1036,Tesla
+Spain,486654,Silla,Comunitat Valenciana,22.0,25,Type 2
+Spain,486653,,Comunitat Valenciana,22.0,25,Type 2
+Spain,486652,Martorell,Catalunya,200.0,33,CCS2
+Spain,486651,,Catalunya,7.4,25,Type 2
+Spain,486650,,Catalunya,22.0,25,Type 2
+Spain,486649,,Catalunya,50.0,33,CCS2
+Spain,486649,,Catalunya,50.0,2,CHAdeMO
+Spain,486649,,Catalunya,43.0,1036,Tesla
+Spain,486648,Lloret de Mar,Catalunya,7.4,25,Type 2
+Spain,486647,,Comunidad de Madrid,7.4,25,Type 2
+Spain,486646,Valdepeñas,Castilla-La Mancha,360.0,33,CCS2
+Spain,486645,,Extremadura,360.0,33,CCS2
+Spain,486644,Navalcarnero,Comunidad de Madrid,22.0,25,Type 2
+Spain,486643,,Comunidad de Madrid,22.0,25,Type 2
+Spain,486642,,Comunidad de Madrid,150.0,33,CCS2
+Spain,486642,,Comunidad de Madrid,22.0,1036,Tesla
+Spain,486420,,Comunidad de Madrid,100.0,33,CCS2
+Spain,486419,,Extremadura,25.0,33,CCS2
+Spain,486419,,Extremadura,25.0,2,CHAdeMO
+Spain,486419,,Extremadura,22.0,1036,Tesla
+Spain,486418,,Aragón,120.0,33,CCS2
+Spain,486417,,Aragón,150.0,33,CCS2
+Spain,486417,,Aragón,150.0,33,CCS2
+Spain,486416,,Aragón,50.0,33,CCS2
+Spain,486416,,Aragón,50.0,2,CHAdeMO
+Spain,486416,,Aragón,43.0,1036,Tesla
+Spain,486415,,Aragón,50.0,33,CCS2
+Spain,486415,,Aragón,50.0,2,CHAdeMO
+Spain,486415,,Aragón,43.0,1036,Tesla
+Spain,486414,,Castilla y León,7.4,1036,Tesla
+Spain,486413,,Navarra,22.0,25,Type 2
+Spain,486413,,Navarra,60.0,33,CCS2
+Spain,486358,,Euskadi,50.0,33,CCS2
+Spain,486358,,Euskadi,50.0,2,CHAdeMO
+Spain,486358,,Euskadi,43.0,1036,Tesla
+Spain,486357,Agurain / Salvatierra,Euskadi,60.0,33,CCS2
+Spain,486356,,Euskadi,7.4,1036,Tesla
+Spain,486355,,Cantabria,22.0,25,Type 2
+Spain,486354,,Cantabria,22.0,25,Type 2
+Spain,486353,,Cantabria,22.0,25,Type 2
+Spain,486352,,Cantabria,22.0,25,Type 2
+Spain,486351,,Cantabria,22.0,25,Type 2
+Spain,486350,,Cantabria,22.0,25,Type 2
+Spain,486349,,Cantabria,22.0,25,Type 2
+Spain,486348,Penagos,Cantabria,22.0,25,Type 2
+Spain,486347,Camargo,Cantabria,22.0,25,Type 2
+Spain,486346,,Asturias / Asturies,60.0,33,CCS2
+Spain,486346,,Asturias / Asturies,22.0,25,Type 2
+Spain,486345,,Asturias / Asturies,60.0,33,CCS2
+Spain,486345,,Asturias / Asturies,22.0,25,Type 2
+Spain,486344,,Asturias / Asturies,60.0,33,CCS2
+Spain,486344,,Asturias / Asturies,22.0,25,Type 2
+Spain,486342,,Asturias / Asturies,60.0,33,CCS2
+Spain,486342,,Asturias / Asturies,22.0,25,Type 2
+Spain,486341,,Euskadi,100.0,33,CCS2
+Spain,486138,San Cristóbal de La Laguna,Canarias,100.0,33,CCS2
+Spain,486137,Antigua,Canarias,7.4,25,Type 2
+Spain,486136,Antigua,Canarias,60.0,33,CCS2
+Spain,486135,,Canarias,60.0,33,CCS2
+Spain,486134,,Catalunya,22.0,1036,Tesla
+Spain,486133,,Catalunya,7.4,25,Type 2
+Spain,486132,Sant Just Desvern,Catalunya,22.0,25,Type 2
+Spain,486131,,Catalunya,22.0,25,Type 2
+Spain,486130,Palau-solità i Plegamans,Catalunya,60.0,33,CCS2
+Spain,486130,Palau-solità i Plegamans,Catalunya,22.0,25,Type 2
+Spain,486129,Rubí,Catalunya,7.4,25,Type 2
+Spain,486128,Rubí,Catalunya,7.4,25,Type 2
+Spain,486127,Pont de Molins,Catalunya,50.0,33,CCS2
+Spain,486126,,Catalunya,50.0,33,CCS2
+Spain,486125,,Catalunya,22.0,25,Type 2
+Spain,486124,Manlleu,Catalunya,22.0,25,Type 2
+Spain,486123,Esparreguera,Catalunya,150.0,33,CCS2
+Spain,486122,,Catalunya,150.0,33,CCS2
+Spain,486121,Vilafranca del Penedès,Catalunya,50.0,33,CCS2
+Spain,486121,Vilafranca del Penedès,Catalunya,50.0,2,CHAdeMO
+Spain,486121,Vilafranca del Penedès,Catalunya,22.0,1036,Tesla
+Spain,486121,Vilafranca del Penedès,Catalunya,7.4,25,Type 2
+Spain,486120,,Catalunya,50.0,33,CCS2
+Spain,486120,,Catalunya,50.0,2,CHAdeMO
+Spain,486120,,Catalunya,43.0,1036,Tesla
+Spain,486119,,Catalunya,22.0,25,Type 2
+Spain,486118,,Catalunya,150.0,33,CCS2
+Spain,486117,Cambrils,Catalunya,22.0,25,Type 2
+Spain,486116,Amposta,Catalunya,50.0,33,CCS2
+Spain,486116,Amposta,Catalunya,50.0,2,CHAdeMO
+Spain,486116,Amposta,Catalunya,22.0,1036,Tesla
+Spain,486115,Vila-real,Comunitat Valenciana,100.0,33,CCS2
+Spain,486114,,Comunitat Valenciana,22.0,25,Type 2
+Spain,486113,,Comunitat Valenciana,90.0,33,CCS2
+Spain,486112,,Comunitat Valenciana,22.0,25,Type 2
+Spain,486111,,Comunitat Valenciana,22.0,25,Type 2
+Spain,486110,,Comunitat Valenciana,22.0,25,Type 2
+Spain,486109,,Comunitat Valenciana,22.0,1036,Tesla
+Spain,486108,Godella,Comunitat Valenciana,10.0,25,Type 2
+Spain,486107,Quart de Poblet,Comunitat Valenciana,80.0,33,CCS2
+Spain,486050,Felanitx,Illes Balears,100.0,33,CCS2
+Spain,486050,Felanitx,Illes Balears,22.0,25,Type 2
+Spain,486049,Eivissa,Illes Balears,50.0,33,CCS2
+Spain,486049,Eivissa,Illes Balears,50.0,2,CHAdeMO
+Spain,486049,Eivissa,Illes Balears,43.0,1036,Tesla
+Spain,486048,Sueca,Comunitat Valenciana,22.0,25,Type 2
+Spain,486047,Petrer,Comunitat Valenciana,22.0,25,Type 2
+Spain,486046,Lorquí,Región de Murcia,7.4,25,Type 2
+Spain,486045,,Región de Murcia,22.0,25,Type 2
+Spain,486044,,Región de Murcia,100.0,33,CCS2
+Spain,486043,Roquetas de Mar,Andalucía,150.0,33,CCS2
+Spain,486043,Roquetas de Mar,Andalucía,50.0,2,CHAdeMO
+Spain,486043,Roquetas de Mar,Andalucía,22.0,25,Type 2
+Spain,486043,Roquetas de Mar,Andalucía,50.0,33,CCS2
+Spain,486042,,Andalucía,180.0,33,CCS2
+Spain,486041,Torremolinos,Andalucía,90.0,33,CCS2
+Spain,486040,Tarifa,Andalucía,22.0,25,Type 2
+Spain,486039,,Andalucía,22.0,25,Type 2
+Spain,485926,,Extremadura,100.0,33,CCS2
+Spain,485925,,Extremadura,100.0,33,CCS2
+Spain,485924,,Andalucía,22.0,25,Type 2
+Spain,485923,,Andalucía,22.0,1036,Tesla
+Spain,485923,,Andalucía,100.0,33,CCS2
+Spain,485923,,Andalucía,80.0,2,CHAdeMO
+Spain,485922,,Andalucía,120.0,33,CCS2
+Spain,485921,,Andalucía,22.0,25,Type 2
+Spain,485920,Sevilla,Andalucía,7.4,25,Type 2
+Spain,485919,Écija,Andalucía,22.0,25,Type 2
+Spain,485918,,Andalucía,22.0,25,Type 2
+Spain,485917,,Andalucía,120.0,33,CCS2
+Spain,485916,Linares,Andalucía,22.0,25,Type 2
+Spain,485915,Valdepeñas,Castilla-La Mancha,150.0,33,CCS2
+Spain,485914,Villarrobledo,Castilla-La Mancha,80.0,33,CCS2
+Spain,485914,Villarrobledo,Castilla-La Mancha,80.0,2,CHAdeMO
+Spain,485913,,Castilla-La Mancha,80.0,33,CCS2
+Spain,485912,,Castilla-La Mancha,80.0,33,CCS2
+Spain,485911,,Comunidad de Madrid,50.0,33,CCS2
+Spain,485911,,Comunidad de Madrid,50.0,2,CHAdeMO
+Spain,485911,,Comunidad de Madrid,22.0,25,Type 2
+Spain,485910,,Comunidad de Madrid,60.0,33,CCS2
+Spain,485909,Pozuelo de Alarcón,Comunidad de Madrid,60.0,33,CCS2
+Spain,485909,Pozuelo de Alarcón,Comunidad de Madrid,22.0,25,Type 2
+Spain,485908,,Comunidad de Madrid,22.0,25,Type 2
+Spain,485906,,Comunidad de Madrid,22.0,25,Type 2
+Spain,485905,,Comunidad de Madrid,22.0,25,Type 2
+Spain,485904,,Castilla-La Mancha,180.0,33,CCS2
+Spain,485903,,Castilla-La Mancha,150.0,33,CCS2
+Spain,485903,,Castilla-La Mancha,50.0,2,CHAdeMO
+Spain,485903,,Castilla-La Mancha,22.0,25,Type 2
+Spain,485903,,Castilla-La Mancha,50.0,33,CCS2
+Spain,485902,,Aragón,400.0,33,CCS2
+Spain,485902,,Aragón,400.0,33,CCS2
+Spain,485901,,Aragón,300.0,33,CCS2
+Spain,485900,Peralta / Azkoien,Navarra,22.0,25,Type 2
+Spain,485899,Zizur Mayor / Zizur Nagusia,Navarra,22.0,25,Type 2
+Spain,485898,,Navarra,50.0,33,CCS2
+Spain,485898,,Navarra,50.0,2,CHAdeMO
+Spain,485898,,Navarra,43.0,1036,Tesla
+Spain,485897,Burlada / Burlata,Navarra,150.0,33,CCS2
+Spain,485896,Burlada,Navarra,150.0,33,CCS2
+Spain,485895,Irun,Euskadi,150.0,33,CCS2
+Spain,485892,,Euskadi,22.0,25,Type 2
+Spain,485891,Oñati,Euskadi,22.0,25,Type 2
+Spain,485890,Oñati,Euskadi,22.0,25,Type 2
+Spain,485889,,Euskadi,22.0,25,Type 2
+Spain,485888,,Euskadi,150.0,33,CCS2
+Spain,485887,Santurtzi,Euskadi,150.0,33,CCS2
+Spain,485887,Santurtzi,Euskadi,80.0,2,CHAdeMO
+Spain,485887,Santurtzi,Euskadi,22.0,25,Type 2
+Spain,485886,Berango,Euskadi,100.0,33,CCS2
+Spain,485886,Berango,Euskadi,100.0,33,CCS2
+Spain,485885,,Cantabria,22.0,25,Type 2
+Spain,485884,,Cantabria,22.0,25,Type 2
+Spain,485883,,Cantabria,22.0,25,Type 2
+Spain,485882,,Cantabria,22.0,25,Type 2
+Spain,485881,Torrelavega,Cantabria,22.0,25,Type 2
+Spain,485880,Cartes,Cantabria,22.0,25,Type 2
+Spain,485879,,Asturias / Asturies,60.0,33,CCS2
+Spain,485879,,Asturias / Asturies,22.0,25,Type 2
+Spain,485878,,Castilla y León,150.0,33,CCS2
+Spain,485831,Benavente,Castilla y León,180.0,33,CCS2
+Spain,485831,Benavente,Castilla y León,80.0,2,CHAdeMO
+Spain,485831,Benavente,Castilla y León,400.0,33,CCS2
+Spain,485830,Treceño,Cantabria,22.0,25,Type 2
+Spain,485829,As Pontes de García Rodríguez,Galicia,50.0,33,CCS2
+Spain,485829,As Pontes de García Rodríguez,Galicia,50.0,2,CHAdeMO
+Spain,485829,As Pontes de García Rodríguez,Galicia,43.0,1036,Tesla
+Spain,485828,,Galicia,300.0,33,CCS2
+Spain,485433,Madrid,Comunidad de Madrid,11.0,1036,Tesla
+Spain,480830,Granollers,Catalunya,220.0,33,CCS2
+Spain,480778,Almansa,Castilla-La Mancha,150.0,33,CCS2
+Spain,480777,,Castilla-La Mancha,360.0,33,CCS2
+Spain,480737,Almázcara,leon,22.0,33,CCS2
+Spain,480737,Almázcara,leon,22.0,33,CCS2
+Spain,480680,Bermeo,Euskadi,90.0,33,CCS2
+Spain,480680,Bermeo,Euskadi,22.0,1036,Tesla
+Spain,480675,,Cantabria,95.0,33,CCS2
+Spain,480673,Vilanova i la Geltrú,Catalunya,22.0,25,Type 2
+Spain,480672,,Castilla-La Mancha,22.0,1036,Tesla
+Spain,480672,,Castilla-La Mancha,60.0,33,CCS2
+Spain,480400,,Galicia,240.0,33,CCS2
+Spain,480245,,Andalucía,60.0,33,CCS2
+Spain,480244,Torredembarra,Catalunya,22.0,25,Type 2
+Spain,480243,Sitges,Catalunya,22.0,25,Type 2
+Spain,480242,,Catalunya,4.0,25,Type 2
+Spain,480241,,Catalunya,4.0,25,Type 2
+Spain,480240,,Comunitat Valenciana,22.0,25,Type 2
+Spain,480239,Carcaixent,Comunitat Valenciana,7.4,25,Type 2
+Spain,480238,Villena,Comunitat Valenciana,22.0,25,Type 2
+Spain,480237,Colmenar Viejo,,22.0,25,Type 2
+Spain,480236,Segovia,,180.0,33,CCS2
+Spain,480235,Valladolid,,60.0,33,CCS2
+Spain,480234,Pamplona,,100.0,33,CCS2
+Spain,480234,Pamplona,,30.0,33,CCS2
+Spain,480127,Serranillos Del Valle,Comunidad de Madrid,60.0,33,CCS2
+Spain,480127,Serranillos Del Valle,Comunidad de Madrid,22.0,25,Type 2
+Spain,479968,Boadilla del Monte,Comunidad de Madrid,22.0,25,Type 2
+Spain,479967,,Asturias / Asturies,100.0,33,CCS2
+Spain,479967,,Asturias / Asturies,22.0,25,Type 2
+Spain,479966,Miranda de Ebro,Castilla y León,150.0,33,CCS2
+Spain,479966,Miranda de Ebro,Castilla y León,80.0,2,CHAdeMO
+Spain,479965,San Fernando de Henares,Comunidad de Madrid,22.0,25,Type 2
+Spain,479964,,Castilla y León,22.0,25,Type 2
+Spain,479963,Castelldefels,Catalunya,7.4,25,Type 2
+Spain,479962,O Porriño,Galicia,180.0,33,CCS2
+Spain,479809,,Castilla-La Mancha,250.0,33,CCS2
+Spain,479753,,Illes Balears,60.0,33,CCS2
+Spain,479752,,Illes Balears,60.0,33,CCS2
+Spain,479751,Arona,Canarias,100.0,33,CCS2
+Spain,479605,Manzanares,Castilla-La Mancha,7.4,25,Type 2
+Spain,479603,el Prat de Llobregat,Catalunya,22.0,25,Type 2
+Spain,479602,,Catalunya,22.0,25,Type 2
+Spain,479601,,Catalunya,22.0,25,Type 2
+Spain,479600,Sant Cugat del Vallès,Catalunya,22.0,25,Type 2
+Spain,479599,Santa Perpètua de Mogoda,Catalunya,150.0,33,CCS2
+Spain,479598,,Catalunya,22.0,25,Type 2
+Spain,479597,Arenys de Mar,Catalunya,150.0,33,CCS2
+Spain,479597,Arenys de Mar,Catalunya,80.0,2,CHAdeMO
+Spain,479596,,Catalunya,60.0,33,CCS2
+Spain,479595,Vic,Catalunya,100.0,33,CCS2
+Spain,479594,,Catalunya,100.0,33,CCS2
+Spain,479593,,Catalunya,150.0,33,CCS2
+Spain,479592,,Illes Balears,60.0,33,CCS2
+Spain,479591,Mairena del Aljarafe,Andalucía,22.0,25,Type 2
+Spain,479590,Mairena del Aljarafe,Andalucía,22.0,25,Type 2
+Spain,479589,Villamartín,Andalucía,60.0,33,CCS2
+Spain,479588,Campillo del Moro,Andalucía,100.0,33,CCS2
+Mexico,484792,Bacalar,Quintana Roo,11.0,27,Type 1 (J1772)
+Mexico,484761,Tulum,Quintana Roo,100.0,1040,CCS1
+Mexico,484760,Playa del Carmen,Quintana Roo,100.0,1040,CCS1
+Mexico,481554,Mérida,Yucatan,240.0,1040,CCS1
+Mexico,481554,Mérida,Yucatan,240.0,27,Type 1 (J1772)
+Mexico,481553,Playa del Carmen,Quintana Roo,40.0,1040,CCS1
+Mexico,480959,Ciudad de México,CDMX,240.0,33,CCS2
+Mexico,480954,Ciudad de México,CDMX,160.0,1040,CCS1
+Mexico,480954,Ciudad de México,CDMX,160.0,1040,CCS1
+Mexico,480954,Ciudad de México,CDMX,240.0,33,CCS2
+Mexico,480918,Paila,Coahuila,180.0,1040,CCS1
+Mexico,480918,Paila,Coahuila,180.0,33,CCS2
+Mexico,462350,Hermosillo,Sonora,50.0,1040,CCS1
+Mexico,461586,Lázaro Cárdenas ,Michoacán ,7.0,1040,CCS1
+Mexico,460657,,,240.0,1040,CCS1
+Mexico,460106,Cajeme,Sonora,9.0,27,Type 1 (J1772)
+Mexico,458928,Tizayuca,Hidalgo,50.0,1040,CCS1
+Mexico,312958,Navojoa,Sonora,50.0,1040,CCS1
+Mexico,312958,Navojoa,Sonora,150.0,27,Type 1 (J1772)
+Mexico,312956,Tula,tamaulipas,50.0,2,CHAdeMO
+Mexico,311571,Roma Sur,CDMX,60.0,1040,CCS1
+Mexico,308368,Villa Unión,Sin.,250.0,27,Type 1 (J1772)
+Mexico,308367,Guaymas,Sonora,50.0,1040,CCS1
+Mexico,308367,Guaymas,Sonora,47.0,2,CHAdeMO
+Mexico,307983,Palmillas,Querétaro,60.0,1040,CCS1
+Mexico,307839,Temascalcingo de José María Velasco,Estado de Mexico,50.0,2,CHAdeMO
+Mexico,307839,Temascalcingo de José María Velasco,Estado de Mexico,50.0,1040,CCS1
+Mexico,307838,Morelia,Michoacan,50.0,1040,CCS1
+Mexico,305298,El Rosal,Estado de México,80.0,1040,CCS1
+Mexico,305298,El Rosal,Estado de México,50.0,2,CHAdeMO
+Mexico,305298,El Rosal,Estado de México,20.0,1036,Tesla
+Mexico,304957,Ciudad de México,CDMX,24.0,1040,CCS1
+Mexico,304956,Ciudad de México,,30.0,1040,CCS1
+Mexico,304065,Ciudad de México,,29.0,1040,CCS1
+Mexico,300901,,Querétaro,50.0,2,CHAdeMO
+Mexico,172963,Chilpancingo,Aguascalientes,120.0,27,Type 1 (J1772)
+Mexico,169939,Tepatitlán de Morelos,Jalisco,120.0,27,Type 1 (J1772)
+Mexico,167690,,Morelia - Acambaro ,120.0,27,Type 1 (J1772)
+Mexico,161602,Villa Hidalgo,San Luis Potosí,120.0,27,Type 1 (J1772)
+Mexico,133843,Zaragoza,Zaragoza,50.0,2,CHAdeMO
+Mexico,133067,Santa Ana,Sonora,250.0,27,Type 1 (J1772)
+Mexico,133067,Santa Ana,Sonora,50.0,1040,CCS1
+Mexico,132814,Jojutla,Jojutla,14.0,27,Type 1 (J1772)
+Mexico,129908,Ensenada,,120.0,27,Type 1 (J1772)
+Mexico,129354,China,,120.0,27,Type 1 (J1772)
+Mexico,126892,San Pedro Garza García,Nuevo León,120.0,27,Type 1 (J1772)
+Mexico,125560,Zedec Santa Fé,Ciudad de México,120.0,27,Type 1 (J1772)
+Mexico,114065,Huixquilucan,Estado de Mexico,30.0,27,Type 1 (J1772)
+Mexico,113890,,,30.0,27,Type 1 (J1772)
+Mexico,109349,Zapopa,Jalisco,23.0,27,Type 1 (J1772)
+Mexico,108991,Compostela,NYR,150.0,27,Type 1 (J1772)
+Mexico,108849,Punta Mita,Nayarit,30.0,27,Type 1 (J1772)
+Mexico,108764,,,23.0,27,Type 1 (J1772)
+Mexico,108690,,,30.0,27,Type 1 (J1772)
+Mexico,106519,Matehuala,,150.0,27,Type 1 (J1772)
+Mexico,101055,Aguascalientes,,120.0,27,Type 1 (J1772)
+Mexico,100949,Ramos Arizpe,,120.0,27,Type 1 (J1772)
+Mexico,98105,,,120.0,27,Type 1 (J1772)
