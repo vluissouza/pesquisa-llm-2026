@@ -1,4 +1,4 @@
-% !TeX root = main.tex
+%!TeX root = main.tex
 \documentclass[12pt]{article}
 
 \usepackage[utf8]{inputenc}
@@ -7,7 +7,20 @@
 \usepackage{amsmath}
 \usepackage{geometry}
 \usepackage{setspace}
+%\usepackage{lmodern}
+%\documentclass{IEEEtran}
+%\usepackage{times}
 \usepackage{newtxtext,newtxmath}
+\usepackage{verbatim}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\usetikzlibrary{shapes.geometric, arrows}
+\tikzstyle{iniciofim} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, text centered, draw=black]
+\tikzstyle{processo} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black]
+\tikzstyle{decisao} = [diamond, aspect=2, text centered, draw=black]
+\tikzstyle{seta} = [thick,->,>=stealth]
 
 \geometry{a4paper, margin=2.5cm}
 
@@ -23,9 +36,9 @@
 
 \begin{abstract}
 A expansão da mobilidade elétrica depende da disponibilidade, interoperabilidade e padronização da infraestrutura de recarga. No Brasil, a consolidação de padrões tecnológicos para conectores e estações de carregamento influencia diretamente decisões de investimento privado, política industrial e planejamento regulatório. Este artigo analisa a relação entre padronização de conectores, potência instalada e maturidade da infraestrutura de recarga, com foco no Brasil e benchmarking internacional com Alemanha, França, Espanha e México, além de referência institucional à China. A pesquisa utiliza dados secundários obtidos por meio da API do Open Charge Map e bases complementares de literatura e relatórios institucionais. Foram aplicadas estatística descritiva, ANOVA, teste de Tukey e regressão linear múltipla para avaliar o impacto do tipo de conector e do país sobre a potência instalada de recarga. Os resultados indicam predominância do padrão CCS2 e Type 2 no Brasil e na Europa, enquanto o México apresenta maior aderência aos padrões CCS1 e Type 1, associados ao ecossistema norte-americano. A regressão mostrou que o tipo de conector e o país explicam aproximadamente 49,7% da variação da potência instalada, evidenciando que a padronização reflete não apenas escolhas técnicas, mas também alinhamentos geotcnológicos e estruturais. Conclui-se que o Brasil apresenta convergência tecnológica com o modelo europeu, embora ainda possua menor maturidade em potência instalada. O estudo contribui para decisões empresariais, regulação pública e estratégias de nacionalização produtiva. 
-
-Palavras-chave: veículos elétricos; infraestrutura de recarga; interoperabilidade; padronização tecnológica; conectores de recarga; benchmarking internacional. 
 \end{abstract}
+
+\noindent\textbf{Keywords:} EV charging infrastructure; interoperability; technological standardization; CCS2; electric mobility; infrastructure efficiency.
 
 \section{Introdução}
 A transição para a mobilidade elétrica tem ampliado a relevância da infraestrutura de recarga como elemento central da competitividade industrial e da sustentabilidade energética. A expansão de veículos elétricos não depende exclusivamente da produção automotiva, mas da existência de uma rede de carregamento interoperável, confiável e economicamente viável. 
@@ -92,6 +105,33 @@ Para o setor público, a padronização favorece políticas industriais, regula�
 
 A principal implicação é que a padronização não constitui apenas uma decisão técnica, mas um determinante da eficiência econômica e da competitividade industrial.
 
+
+\begin{figure}[h]
+\centering
+
+\begin{tikzpicture}[node distance=2cm]
+
+\node (inicio) [iniciofim] {Início};
+\node (dados) [processo, below of=inicio] {Coleta de Dados};
+\node (anova) [processo, below of=dados,] {ANOVA};
+\node (decisao) [decisao, below of=anova, yshift=-1cm] {p-value < 0.05?};
+\node (tukey) [processo, below of=decisao, yshift=-1cm] {Teste de Tukey};
+\node (reg) [processo, right of=decisao, xshift=4cm] {Regressão};
+\node (fim) [iniciofim, below of=tukey] {Conclusão};
+
+\draw [seta] (inicio) -- (dados);
+\draw [seta] (dados) -- (anova);
+\draw [seta] (anova) -- (decisao);
+\draw [seta] (decisao) -- node[left]{Sim} (tukey);
+\draw [seta] (decisao) -- node[above]{Não} (reg);
+\draw [seta] (tukey) -- (fim);
+
+\end{tikzpicture}
+
+\caption{Statistical analysis workflow}
+\end{figure}
+
+
 \begin{equation}
 R^2 = 0.497
 \end{equation}
@@ -123,6 +163,7 @@ Spain & 31.70 & 5.37 & <0.001 \\
 
 \section{Demais Resultados}
 
+
 Os resultados da estrutura ANOVA indicam diferenças através do tipos de conector.
 
 
@@ -139,6 +180,21 @@ Os resultados da estrutura ANOVA indicam diferenças através do tipos de conect
 \caption{Conector CCS Tipo 1}
 \label{fig:ccs-tipo-1}
 \end{figure}
+
+\subsection{ANOVA Results}
+% tabela LaTeX
+Os resultados da ANOVA indicam diferenças significativas entre os tipos de conector.
+
+\input{data/anova.tex}
+
+Os resultados mostram que a hipótese nula é rejeitada (p < 0.001), indicando heterogeneidade através dos grupos.
+
+\subsection{Post-hoc Analysis}
+% Tukey
+% \lstinputlisting{../data/results_summary.txt}
+
+\subsection{Regression Analysis}
+% tabela + interpretação
 
 \section{Conclusão}
 A infraestrutura de recarga de veículos elétricos deve ser analisada como sistema estratégico de integração tecnológica, industrial e regulatória. Os resultados demonstram que a escolha do padrão de conectores afeta diretamente a potência instalada, a eficiência do investimento e a capacidade de expansão da mobilidade elétrica. 

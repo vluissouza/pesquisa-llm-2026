@@ -1,0 +1,21 @@
+\begin{table}[h]
+\centering
+\caption{ANOVA results for charging power (kW) by connector type}
+\label{tab:anova_connector}
+
+\begin{tabular}{l S S S S S}
+\toprule
+{Source} & {Sum of Squares} & {df} & {Mean Square} & {F} & {p-value} \\
+\midrule
+Connector Type & 5548908.72 & 5 & 1109781.74 & 250.97 & <0.001 \\
+Residual       & 6292520.72 & 1423 & 4424.68 & {} & {} \\
+\midrule
+Total          & 11841429.44 & 1428 & {} & {} & {} \\
+\bottomrule
+\end{tabular}
+
+\end{table}
+
+\vspace{0.4cm}
+
+\noindent \textbf{Interpretação:} A estatística-F de 250.97 com $p < 0.001$ indica diferenças estatisticamente significantes na potência de carregamento através dos carregadores. A hipótese nula ($H_0: \mu_{CCS2} = \mu_{Type2} = \mu_{CHAdeMO} = \cdots$) é rejeitada, confirmando heterogeneidade entre os grupos.

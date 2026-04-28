@@ -1,0 +1,64 @@
+flowchart TD
+
+%% Definição de estilos
+classDef processo fill:#E3F2FD,stroke:#1E88E5,stroke-width:2px;
+classDef decisao fill:#FFF3E0,stroke:#FB8C00,stroke-width:2px;
+classDef externo fill:#E8F5E9,stroke:#43A047,stroke-width:2px;
+
+%% Atores externos
+Cliente([Cliente]):::externo
+Fornecedor([Fornecedor]):::externo
+
+%% Subgrafo: Entrada
+subgraph Entrada
+    A1[Receber Requisitos]:::processo
+    A2[Analisar Requisitos]:::processo
+end
+
+%% Subgrafo: Planejamento
+subgraph Planejamento
+    B1[Definir Escopo]:::processo
+    B2[Identificar Riscos]:::processo
+    B3{Risco Aceitável?}:::decisao
+end
+
+%% Subgrafo: Execução
+subgraph Execucao
+    C1[Produzir Produto]:::processo
+    C2[Inspecionar Qualidade]:::processo
+    C3{Conforme?}:::decisao
+end
+
+%% Subgrafo: Controle
+subgraph Controle
+    D1[Registrar Não Conformidade]:::processo
+    D2[Executar Ação Corretiva]:::processo
+end
+
+%% Subgrafo: Saída
+subgraph Saida
+    E1[Entregar Produto]:::processo
+    E2[Coletar Feedback]:::processo
+end
+
+%% Fluxo principal
+Cliente --> A1 --> A2 --> B1 --> B2 --> B3
+
+%% Decisão de risco
+B3 -- Sim --> C1
+B3 -- Não --> B2
+
+%% Execução
+C1 --> C2 --> C3
+
+%% Decisão de qualidade
+C3 -- Sim --> E1
+C3 -- Não --> D1 --> D2 --> C1
+
+%% Saída e feedback
+E1 --> Cliente
+Cliente --> E2
+E2 --> B2
+
+%% Integração com fornecedor
+Fornecedor --> C1
